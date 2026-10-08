@@ -1,0 +1,8 @@
+{
+  "name": "world-search-you-dsh-pv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CPU build tools for the r21 TUI fan PV",
+  "license": "MIT",
+  "dependencies": {"playwright": "1.63.0"}
+}

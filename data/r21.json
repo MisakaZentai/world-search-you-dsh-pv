@@ -1,0 +1,23 @@
+{
+  "env": {
+    "DSH_A": "open",
+    "DSH_B": "lead",
+    "DSH_C": "lead",
+    "DSH_D": "r5",
+    "DSH_E": "r5",
+    "DSH_F": "r5",
+    "DSH_G": "r5",
+    "DSH_H": "r10",
+    "DSH_I": "r5",
+    "DSH_SUB": "align",
+    "DSH_SHADE": "d11",
+    "DSH_E5": "scan",
+    "DSH_REP": "g8",
+    "DSH_I2": "gacha",
+    "DSH_END": "story"
+  },
+  "end": 304.7954,
+  "fps": 24,
+  "chime_ms": 290800,
+  "source_version": "r21"
+}

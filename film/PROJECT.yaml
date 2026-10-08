@@ -1,0 +1,102 @@
+project:
+  id: pv_dsh_search_you
+  title: world.search(you); · 大肥鱼 同人 PV（world.execute(me); 续作）
+  owner: MisakaZentai
+song:
+  audio: ../input/song.wav
+  duration: 292.5
+  beats_per_bar: 4
+  first_downbeat: 0.9738
+  analysis: timing/audio.json
+  words: timing/words.json
+video:
+  width: 1280
+  height: 720
+  fps: 24
+  master: ../out/film_master.mp4
+  upload:
+    scale: 3
+    codec: libx265
+    bitrate: 23M
+    audio_bitrate: 320k
+style:
+  palette: paper
+  colors:
+    bg: '#ece8de'
+    ink: '#1d2029'
+    slab: '#1b1d24'
+    dim: '#7d796f'
+    her: '#4d6bfe'
+    flash: '#5a6e96'
+    pro: '#6d3fc0'
+    lite: '#178f8c'
+    kimi: '#5a6e96'
+    qwen: '#6d3fc0'
+    mimo: '#178f8c'
+    glm: '#2f7d5b'
+    minimax: '#b23a6e'
+    hy4: '#8a6d1f'
+    ernie: '#b5532a'
+    step: '#a83232'
+    spark: '#a83232'
+    longcat: '#e2711d'
+    merged: '#56607e'
+    error: '#d64236'
+    anomaly: '#b8862a'
+    deep: '#05080f'
+  font_mono: C:/Windows/Fonts/consola.ttf
+  font_bold: C:/Windows/Fonts/consolab.ttf
+  font_cjk: C:/Windows/Fonts/msyh.ttc
+  font_cjk_bold: C:/Windows/Fonts/msyhbd.ttc
+  band_px: 21
+  keywords: {}
+  cell:
+  - 8
+  - 16
+  ui_min_px: 16
+  support_level: 0.42
+  lead_fade: 0.5
+  lyric_hold_frames: 6
+layout:
+  header:
+  - 0
+  - 0
+  - 1280
+  - 44
+  left:
+  - 24
+  - 56
+  - 776
+  - 604
+  column:
+  - 24
+  - 64
+  - 92
+  - 596
+  term:
+  - 100
+  - 56
+  - 776
+  - 604
+  right:
+  - 792
+  - 56
+  - 1256
+  - 604
+  pane:
+  - 793
+  - 57
+  - 1255
+  - 603
+  lyric_band:
+  - 24
+  - 614
+  - 1256
+  - 700
+character:
+  name: 大肥鱼（溟月）
+  sources: assets/character/
+credits:
+- 'Music: Mili - world.search(you);'
+- 'Character: 溟月 © 上善无形 / 女仆版 ZipZipPipe'
+- 非官方同人作品

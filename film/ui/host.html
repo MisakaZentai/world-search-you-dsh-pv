@@ -1,0 +1,66 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../../vendor/dsh-web-frontend/dist/assets/vendor-BNsW4eBh.css">
+<link rel="stylesheet" href="../../vendor/dsh-web-frontend/dist/assets/index-DPX2bQLO.css">
+<link rel="stylesheet" href="dsh_components.css">
+<style>
+ /* dsh's own light theme (no data-ds-dark-theme): your world, D03 */
+ html,body{margin:0;height:100%;overflow:hidden;background:var(--dsw-alias-bg-base)}
+ body{font-family:var(--dsw-font-family);-webkit-font-smoothing:antialiased;
+      --dsh-content-font-size:16px;--dsh-content-font-delta:2px;
+      --dsh-content-font-size-secondary:14px;--dsh-content-font-delta-secondary:1px}
+ #app{height:100%}
+ .pv-root{height:100%;display:flex;background:var(--dsw-alias-bg-base);color:var(--dsw-alias-label-primary)}
+ /* the black-cat persona's light palette (kuroneko-theme-plugin "月白蕾丝"), applied like the plugin's
+    theme.overrideTokens: colours only, never its mascot (D10 ③, FACTS F24) */
+ .kuro{--dsw-alias-bg-base:#f4f0fa;--dsw-alias-bg-layer-1:#ece5f8;--dsw-alias-bg-layer-2:#e2d8f3;
+       --dsw-alias-bg-overlay:#faf7fe;--dsw-alias-border-l1:rgba(109,63,192,.14);--dsw-alias-border-l2:rgba(109,63,192,.28);
+       --dsw-alias-brand-primary:#6d3fc0;--dsw-alias-label-primary:#241a33;--dsw-alias-label-secondary:#6a5d80;
+       --dsw-alias-state-error-primary:#d5497c;--dsw-alias-state-success-primary:#3d9462;--dsw-alias-state-warn-primary:#b07d2f;
+       --dsw-specific-sidebar-fill:#e6dcf4;--dsw-specific-bubble:#e6dcf4;--dsw-specific-input-major:#faf7fe}
+ .pv-rel{position:relative}
+ /* session rail */
+ .pv-rail{width:56px;flex:none;display:flex;flex-direction:column;align-items:center;gap:12px;padding:12px 0;
+          background:var(--dsw-specific-sidebar-fill, var(--dsw-alias-bg-layer-1));border-right:.5px solid var(--dsw-alias-border-l1)}
+ .pv-new{width:34px;height:34px;border-radius:10px;display:flex;align-items:center;justify-content:center;
+         color:var(--dsw-alias-label-secondary);border:.5px dashed var(--dsw-alias-border-l2)}
+ .pv-ses{position:relative;width:36px;height:36px}
+ .pv-ses img{width:36px;height:36px;border-radius:10px;object-fit:cover;display:block}
+ .pv-ses.grey img{filter:grayscale(1) brightness(1.08) contrast(.82);opacity:.75}
+ .pv-ses.on:before{content:"";position:absolute;left:-10px;top:8px;width:3px;height:20px;border-radius:2px;background:var(--dsw-alias-label-primary)}
+ .pv-badge{position:absolute;left:50%;bottom:-9px;transform:translateX(-50%);font-size:9px;line-height:12px;padding:0 3px;
+           border-radius:4px;background:var(--dsw-alias-bg-base);color:var(--dsw-alias-label-tertiary);border:.5px solid var(--dsw-alias-border-l2);white-space:nowrap}
+ /* main column */
+ .pv-main{flex:1;min-width:0;display:flex;flex-direction:column}
+ .pv-head{display:flex;align-items:center;gap:10px;padding:10px 14px 8px;border-bottom:.5px solid var(--dsw-alias-border-l1)}
+ .pv-pet{width:48px;height:48px;border-radius:12px;overflow:hidden;flex:none;border:.5px solid var(--dsw-alias-border-l2)}
+ .pv-pet img{width:100%;height:100%;object-fit:cover;display:block}
+ .pv-name{color:var(--dsw-alias-label-primary);font-size:15px;line-height:21px;font-weight:600}
+ .pv-state{color:var(--dsw-alias-label-tertiary);font-size:12px;line-height:18px;display:flex;align-items:center;gap:5px}
+ .pv-dot{width:7px;height:7px;border-radius:50%}
+ #timeline{flex:1;display:flex;flex-direction:column;justify-content:flex-end;gap:10px;padding:10px 14px 6px;overflow:hidden;
+           --dsh-chat-content-width:390px}
+ #timeline > *{flex-shrink:0}      /* overflowing chats cut at the top; dsh rows with contain:size would collapse to 0 */
+ #composer{--dsh-composer-side-clearance:10px;--dsh-composer-card-max-width:100%;--dsh-composer-text-max-height:80px;padding-bottom:4px}
+ .bOPqQW_root{padding:2px 4px 8px;gap:2px}
+ .pv-force .Q51KRG_label{display:inline !important}
+ .pv-force{width:auto !important;padding:6px 8px !important}
+ .pv-mdot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:6px}
+ .pv-typed{font-size:var(--dsh-content-font-size,16px);line-height:24px;color:var(--dsw-alias-label-primary);padding:2px 0}
+ .pv-caret{display:inline-block;width:2px;height:18px;margin-left:1px;vertical-align:-3px;background:var(--dsw-alias-label-primary)}
+ /* model menu */
+ .pv-menu{position:absolute;right:34px;bottom:34px;width:236px;padding:6px;border-radius:14px;background:var(--dsw-alias-bg-overlay, #fff);
+          border:.5px solid var(--dsw-alias-border-l2);box-shadow:0 8px 24px rgba(20,20,40,.14);z-index:5}
+ .pv-mi{display:flex;align-items:center;font-size:13px;line-height:30px;padding:0 8px;border-radius:9px;color:var(--dsw-alias-label-primary)}
+ .pv-mi.hov{background:var(--dsw-alias-interactive-bg-hover, rgba(0,0,0,.05))}
+ .pv-mi.off{color:var(--dsw-alias-label-tertiary)}
+ .pv-note{margin-left:auto;font-size:11px;color:var(--dsw-alias-label-tertiary)}
+ /* your pointer */
+ .pv-ptr{position:absolute;z-index:9;width:18px;height:22px;transform-origin:0 0;pointer-events:none}
+ .pv-ring{position:absolute;left:-13px;top:-13px;width:26px;height:26px;border-radius:50%;border:2px solid rgba(38,42,52,.55)}
+ .lcKema_root[data-expanded] .lcKema_chevron{transform:rotate(180deg)}
+ /* D1 (sample p4): dsh's send button is her blue; on the page it is the quiet blue like her other marks */
+ .pv-root .uV2eYG_primary{background:#616fb1}
+ /* marks used by the story */
+ .pv-hl{border-radius:3px;padding:0 1px}
+</style></head>
+<body><div id="app"></div></body></html>

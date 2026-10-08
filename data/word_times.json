@@ -1,0 +1,3919 @@
+{
+  "schema_version": 2,
+  "duration": 292.5,
+  "lines": [
+    {
+      "id": 0,
+      "start": 14.325,
+      "end": 17.605,
+      "display_end": 18.105,
+      "sha256": "03e41a8c937ccd38acaaf84342e0b3e6df41f5c2e49dfd7da871d1339f637c96",
+      "words": [
+        {
+          "line_id": 0,
+          "word_index": 0,
+          "start": 14.325,
+          "end": 14.8,
+          "conf": 0.79
+        },
+        {
+          "line_id": 0,
+          "word_index": 1,
+          "start": 14.84,
+          "end": 15.18,
+          "conf": 0.87
+        },
+        {
+          "line_id": 0,
+          "word_index": 2,
+          "start": 15.18,
+          "end": 15.585,
+          "conf": 0.93
+        },
+        {
+          "line_id": 0,
+          "word_index": 3,
+          "start": 15.585,
+          "end": 15.96,
+          "conf": 0.82
+        },
+        {
+          "line_id": 0,
+          "word_index": 4,
+          "start": 16.18,
+          "end": 17.065,
+          "conf": 0.96
+        },
+        {
+          "line_id": 0,
+          "word_index": 5,
+          "start": 17.065,
+          "end": 17.32,
+          "conf": 1.0
+        },
+        {
+          "line_id": 0,
+          "word_index": 6,
+          "start": 17.32,
+          "end": 17.605,
+          "conf": 0.81
+        }
+      ],
+      "word_hashes": [
+        "630ef00b7c4f54d25b8712cb4ebb5b04264b037a8fcdac9754f21df0036881d1",
+        "a7e2d26e8d15814dd9c6a1bdc90585c8d0a3170dfffeb21fc42986683113041b",
+        "a74bd03c62fe5784ed14a1e7a4bf65d801a42f52eabf671d6676a30dba91a8e6",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "23f38bdd43f4f0c591d6cb0ddb096cdc5cb00b1210d497d7aa7ab03df767efea",
+        "f1537d8de0bbe107268e2b4263ae6753d2de8a56cb6463b92d7df109079aad51",
+        "75a288c0d6898c5f7b054590845978a82a3ad79fcce3d43ff68a7501e5a91ee9"
+      ]
+    },
+    {
+      "id": 1,
+      "start": 21.19,
+      "end": 24.765,
+      "display_end": 25.265,
+      "sha256": "a589fb6e4d59381c2e26c63802888bb84c9b6628367aebc4550f5abc93d4a564",
+      "words": [
+        {
+          "line_id": 1,
+          "word_index": 0,
+          "start": 21.19,
+          "end": 21.74,
+          "conf": 0.92
+        },
+        {
+          "line_id": 1,
+          "word_index": 1,
+          "start": 21.74,
+          "end": 22.2,
+          "conf": 1.0
+        },
+        {
+          "line_id": 1,
+          "word_index": 2,
+          "start": 22.2,
+          "end": 22.41,
+          "conf": 0.76
+        },
+        {
+          "line_id": 1,
+          "word_index": 3,
+          "start": 22.46,
+          "end": 22.78,
+          "conf": 0.85
+        },
+        {
+          "line_id": 1,
+          "word_index": 4,
+          "start": 22.865,
+          "end": 23.34,
+          "conf": 1.0
+        },
+        {
+          "line_id": 1,
+          "word_index": 5,
+          "start": 23.34,
+          "end": 23.455,
+          "conf": 1.0
+        },
+        {
+          "line_id": 1,
+          "word_index": 6,
+          "start": 23.54,
+          "end": 24.095,
+          "conf": 0.97
+        },
+        {
+          "line_id": 1,
+          "word_index": 7,
+          "start": 24.18,
+          "end": 24.765,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "2068b81b75d4b2b1dba07f5d37f972b989b5d265f5469bd0a12d087db49f200b",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "28720365c5e7476a011e4f43ac003ee5f16247a263b9d623aa85ed311d73bf39",
+        "69440e3a1716de7da2a9a3e884bc823002a07be6f99235d82aa6a5d491c11e0a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "df4ac416257333cf770e5b162da9c2a06b37e428d0a4035ec3a0f114df08d231",
+        "55d6b753cd3085a7283a9772cdb21eb19466faa726a923780371265c1816fdf2"
+      ]
+    },
+    {
+      "id": 2,
+      "start": 28.32,
+      "end": 31.79,
+      "display_end": 32.29,
+      "sha256": "7439fbe2985cb7964b2777fb601045933931272b3e48b7c6f9d798bfde04ce42",
+      "words": [
+        {
+          "line_id": 2,
+          "word_index": 0,
+          "start": 28.32,
+          "end": 28.55,
+          "conf": 0.74
+        },
+        {
+          "line_id": 2,
+          "word_index": 1,
+          "start": 28.55,
+          "end": 28.79,
+          "conf": 1.0
+        },
+        {
+          "line_id": 2,
+          "word_index": 2,
+          "start": 28.79,
+          "end": 29.71,
+          "conf": 1.0
+        },
+        {
+          "line_id": 2,
+          "word_index": 3,
+          "start": 30.065,
+          "end": 30.74,
+          "conf": 0.85
+        },
+        {
+          "line_id": 2,
+          "word_index": 4,
+          "start": 30.74,
+          "end": 30.945,
+          "conf": 0.92
+        },
+        {
+          "line_id": 2,
+          "word_index": 5,
+          "start": 30.945,
+          "end": 31.05,
+          "conf": 1.0
+        },
+        {
+          "line_id": 2,
+          "word_index": 6,
+          "start": 31.135,
+          "end": 31.79,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "831a9d52a9c37435057e727005b1b61955f31434ac63c7015e236905183106fd",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "f69ca429beb49bdfef34b5f427cf57e7615669a3e22460a317c9840d928ea490",
+        "1e22560cee2c4b727c6a117792e04a6769efbe2395f8e2528c603a153a446477",
+        "663ea1bfffe5038f3f0cf667f14c4257eff52d77ce7f2a218f72e9286616ea39",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "84ccdf8a849ffbc98d3a8a4bfb0999eda9254015f75a1c6cc7f68338d61c00b0"
+      ]
+    },
+    {
+      "id": 3,
+      "start": 35.26,
+      "end": 38.68,
+      "display_end": 39.18,
+      "sha256": "185423af4ef02f5f9bf4fe33fd00cf111808bc7c01e21113a1dcc83048c120aa",
+      "words": [
+        {
+          "line_id": 3,
+          "word_index": 0,
+          "start": 35.26,
+          "end": 35.51,
+          "conf": 0.92
+        },
+        {
+          "line_id": 3,
+          "word_index": 1,
+          "start": 35.51,
+          "end": 35.71,
+          "conf": 1.0
+        },
+        {
+          "line_id": 3,
+          "word_index": 2,
+          "start": 35.71,
+          "end": 35.92,
+          "conf": 1.0
+        },
+        {
+          "line_id": 3,
+          "word_index": 3,
+          "start": 35.92,
+          "end": 36.035,
+          "conf": 1.0
+        },
+        {
+          "line_id": 3,
+          "word_index": 4,
+          "start": 36.035,
+          "end": 36.81,
+          "conf": 0.85
+        },
+        {
+          "line_id": 3,
+          "word_index": 5,
+          "start": 36.81,
+          "end": 37.245,
+          "conf": 1.0
+        },
+        {
+          "line_id": 3,
+          "word_index": 6,
+          "start": 37.245,
+          "end": 37.345,
+          "conf": 0.8
+        },
+        {
+          "line_id": 3,
+          "word_index": 7,
+          "start": 37.345,
+          "end": 37.64,
+          "conf": 0.85
+        },
+        {
+          "line_id": 3,
+          "word_index": 8,
+          "start": 37.64,
+          "end": 38.06,
+          "conf": 1.0
+        },
+        {
+          "line_id": 3,
+          "word_index": 9,
+          "start": 38.06,
+          "end": 38.68,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "29b44be64bedf09b64503de19e77703ac3954ad1798bb480872f28cbb8b80e99",
+        "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed",
+        "fa51fd49abf67705d6a35d18218c115ff5633aec1f9ebfdc9d5d4956416f57f6",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "d130b04029f84186e4528e1b30bc7362c07226b5f59bcd28a2ca500e7b4b3e54",
+        "1509f561f2416598629b886ad7d3c05a7e221e4e0675c84bbff4ee6d9e03913d",
+        "2ad8a7049d7c5511ac254f5f51fe70a046ebd884729056f0fe57f5160d467153",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "3547cb112ac4489af2310c0626cdba6f3097a2ad5a3b42ddd3b59c76c7a079a3"
+      ]
+    },
+    {
+      "id": 4,
+      "start": 40.86,
+      "end": 43.985,
+      "display_end": 44.34,
+      "sha256": "cd8e53c09098164333f1a727782a68b3a57d954d4da45ce5cf6d833b9a59e963",
+      "words": [
+        {
+          "line_id": 4,
+          "word_index": 0,
+          "start": 40.86,
+          "end": 41.04,
+          "conf": 0.92
+        },
+        {
+          "line_id": 4,
+          "word_index": 1,
+          "start": 41.12,
+          "end": 41.28,
+          "conf": 0.67
+        },
+        {
+          "line_id": 4,
+          "word_index": 2,
+          "start": 41.28,
+          "end": 41.52,
+          "conf": 0.84
+        },
+        {
+          "line_id": 4,
+          "word_index": 3,
+          "start": 41.52,
+          "end": 42.025,
+          "conf": 0.83
+        },
+        {
+          "line_id": 4,
+          "word_index": 4,
+          "start": 42.82,
+          "end": 43.185,
+          "conf": 0.71
+        },
+        {
+          "line_id": 4,
+          "word_index": 5,
+          "start": 43.22,
+          "end": 43.985,
+          "conf": 0.76
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "0d4fc4a78d3706edccafb665a8b2fdd9309e82c78625bb0f2b8e7bb9e1c4d21c"
+      ]
+    },
+    {
+      "id": 5,
+      "start": 44.34,
+      "end": 47.505,
+      "display_end": 47.63,
+      "sha256": "7e99cc10d7f8a2300651d656c728e48c0663496b02dd223508cd737605567029",
+      "words": [
+        {
+          "line_id": 5,
+          "word_index": 0,
+          "start": 44.34,
+          "end": 44.55,
+          "conf": 0.85
+        },
+        {
+          "line_id": 5,
+          "word_index": 1,
+          "start": 44.55,
+          "end": 45.02,
+          "conf": 1.0
+        },
+        {
+          "line_id": 5,
+          "word_index": 2,
+          "start": 45.02,
+          "end": 45.11,
+          "conf": 0.98
+        },
+        {
+          "line_id": 5,
+          "word_index": 3,
+          "start": 45.195,
+          "end": 45.445,
+          "conf": 0.86
+        },
+        {
+          "line_id": 5,
+          "word_index": 4,
+          "start": 45.74,
+          "end": 46.275,
+          "conf": 0.96
+        },
+        {
+          "line_id": 5,
+          "word_index": 5,
+          "start": 46.275,
+          "end": 46.42,
+          "conf": 1.0
+        },
+        {
+          "line_id": 5,
+          "word_index": 6,
+          "start": 46.5,
+          "end": 46.745,
+          "conf": 1.0
+        },
+        {
+          "line_id": 5,
+          "word_index": 7,
+          "start": 46.745,
+          "end": 47.505,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd",
+        "4137b01e139589b7a1d3b3fc4da031d8ce5bb415808734e970c3a58ea0e98f0f",
+        "b1d6b91b67c2afa5e322988d9462638d354ddf8a1ef79dba987f815c22b4baee",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "39e0f5efdc39ec10992833ad019f0ddf2b42b49b098313df991b8229a37aed21",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "038468518ad8122e13112743f890c7ba96ac5665b71de548eceb23e9ef237805",
+        "7766ecf39f687d6638df48814137dccc9775ecd86f61353cd161c3dc5c1b6189"
+      ]
+    },
+    {
+      "id": 6,
+      "start": 47.63,
+      "end": 50.895,
+      "display_end": 51.22,
+      "sha256": "1ea855a31dd074760c6e3751ddaca7a07c94f177fcbce901d251d11cdf603ca8",
+      "words": [
+        {
+          "line_id": 6,
+          "word_index": 0,
+          "start": 47.63,
+          "end": 48.12,
+          "conf": 0.77
+        },
+        {
+          "line_id": 6,
+          "word_index": 1,
+          "start": 48.12,
+          "end": 48.9,
+          "conf": 0.92
+        },
+        {
+          "line_id": 6,
+          "word_index": 2,
+          "start": 48.9,
+          "end": 49.48,
+          "conf": 0.81
+        },
+        {
+          "line_id": 6,
+          "word_index": 3,
+          "start": 49.48,
+          "end": 49.96,
+          "conf": 1.0
+        },
+        {
+          "line_id": 6,
+          "word_index": 4,
+          "start": 49.96,
+          "end": 50.14,
+          "conf": 0.82
+        },
+        {
+          "line_id": 6,
+          "word_index": 5,
+          "start": 50.14,
+          "end": 50.895,
+          "conf": 0.76
+        }
+      ],
+      "word_hashes": [
+        "859bc154ada2d9cba47d6b3ad631244e91e0b56a3bfcb64285e91362193f1ac2",
+        "0dcb8a74b608c22a862606a340c3080e7888c45941543ea6c5a9e73e88ca3572",
+        "c7c8fc91abb8ed76c29a883381b92612dcd8235d6e7ddca8d81f6e87d5fab417",
+        "efbde73cf7b4ef001efe7f4ee27ea8409749c3ad5434a5017eddaabd5c1d6af1",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "c826b2f59dda6198454bed14571f4fdc8986f7a96467620df432931043ce539d"
+      ]
+    },
+    {
+      "id": 7,
+      "start": 51.22,
+      "end": 54.345,
+      "display_end": 54.49,
+      "sha256": "a39022a08d53bf0d0e655f67d920acf1efbd143a213b54f1fd95bad995d70e22",
+      "words": [
+        {
+          "line_id": 7,
+          "word_index": 0,
+          "start": 51.22,
+          "end": 51.42,
+          "conf": 0.81
+        },
+        {
+          "line_id": 7,
+          "word_index": 1,
+          "start": 51.42,
+          "end": 51.7,
+          "conf": 0.84
+        },
+        {
+          "line_id": 7,
+          "word_index": 2,
+          "start": 51.7,
+          "end": 52.04,
+          "conf": 0.91
+        },
+        {
+          "line_id": 7,
+          "word_index": 3,
+          "start": 52.04,
+          "end": 52.92,
+          "conf": 0.99
+        },
+        {
+          "line_id": 7,
+          "word_index": 4,
+          "start": 52.92,
+          "end": 53.505,
+          "conf": 0.97
+        },
+        {
+          "line_id": 7,
+          "word_index": 5,
+          "start": 53.505,
+          "end": 54.005,
+          "conf": 1.0
+        },
+        {
+          "line_id": 7,
+          "word_index": 6,
+          "start": 54.005,
+          "end": 54.345,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "c0212a81b08c69f2012a22ccde46fa877b00d21dcc0c1fbd7c2152cd389e274a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9",
+        "fafe97f7def328bbd4f10779b9625a8aa0bfaa143d7ae64e6f5770e47b51cd1d",
+        "0d4fc4a78d3706edccafb665a8b2fdd9309e82c78625bb0f2b8e7bb9e1c4d21c",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0"
+      ]
+    },
+    {
+      "id": 8,
+      "start": 54.49,
+      "end": 57.8,
+      "display_end": 58.08,
+      "sha256": "9cc560995341016b1b3853af0c89b4eb66b0af18fe1a8f3524a3276c68cf91dc",
+      "words": [
+        {
+          "line_id": 8,
+          "word_index": 0,
+          "start": 54.49,
+          "end": 54.88,
+          "conf": 1.0
+        },
+        {
+          "line_id": 8,
+          "word_index": 1,
+          "start": 54.88,
+          "end": 55.04,
+          "conf": 0.83
+        },
+        {
+          "line_id": 8,
+          "word_index": 2,
+          "start": 55.04,
+          "end": 55.36,
+          "conf": 1.0
+        },
+        {
+          "line_id": 8,
+          "word_index": 3,
+          "start": 55.36,
+          "end": 55.81,
+          "conf": 1.0
+        },
+        {
+          "line_id": 8,
+          "word_index": 4,
+          "start": 56.645,
+          "end": 57.08,
+          "conf": 0.85
+        },
+        {
+          "line_id": 8,
+          "word_index": 5,
+          "start": 57.08,
+          "end": 57.8,
+          "conf": 0.89
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "ea325d761f98c6b73320e442b67f2a3574d9924716d788ddc0dbbdcaca853fe7",
+        "d9e36ff2055d23ac1b39509df8e7fa4f34d86b3da922e51fd8a1d539dd10b026"
+      ]
+    },
+    {
+      "id": 9,
+      "start": 58.08,
+      "end": 61.205,
+      "display_end": 61.38,
+      "sha256": "46f67b311f94d32283d3a75010de5ff0107e3beda99b86b2bb98a2d01d705cb1",
+      "words": [
+        {
+          "line_id": 9,
+          "word_index": 0,
+          "start": 58.08,
+          "end": 58.53,
+          "conf": 0.92
+        },
+        {
+          "line_id": 9,
+          "word_index": 1,
+          "start": 58.53,
+          "end": 58.725,
+          "conf": 1.0
+        },
+        {
+          "line_id": 9,
+          "word_index": 2,
+          "start": 58.725,
+          "end": 58.88,
+          "conf": 1.0
+        },
+        {
+          "line_id": 9,
+          "word_index": 3,
+          "start": 58.955,
+          "end": 60.37,
+          "conf": 0.88
+        },
+        {
+          "line_id": 9,
+          "word_index": 4,
+          "start": 60.37,
+          "end": 61.205,
+          "conf": 0.81
+        }
+      ],
+      "word_hashes": [
+        "5f645e75ccfc83fe9d7e34e64444226206ddfec664dc0fb25a1eb2cc5addf454",
+        "46599c5bb5c33101f80cea8438e2228085513dbbb19b2f5ce97bd68494d3344d",
+        "038468518ad8122e13112743f890c7ba96ac5665b71de548eceb23e9ef237805",
+        "8e0a1b0ada42172886fd1297e25abf99f14396a9400acbd5f20da20289cff02f",
+        "cde48537ca2c28084ff560826d0e6388b7c57a51497a6cb56f397289e52ff41b"
+      ]
+    },
+    {
+      "id": 10,
+      "start": 61.38,
+      "end": 64.595,
+      "display_end": 64.92,
+      "sha256": "169b791eb47502960fda3cacfb948b27e52e84e90fb151897d2b9170931183c7",
+      "words": [
+        {
+          "line_id": 10,
+          "word_index": 0,
+          "start": 61.38,
+          "end": 61.94,
+          "conf": 0.79
+        },
+        {
+          "line_id": 10,
+          "word_index": 1,
+          "start": 61.94,
+          "end": 62.32,
+          "conf": 0.88
+        },
+        {
+          "line_id": 10,
+          "word_index": 2,
+          "start": 62.32,
+          "end": 62.8,
+          "conf": 1.0
+        },
+        {
+          "line_id": 10,
+          "word_index": 3,
+          "start": 62.98,
+          "end": 63.64,
+          "conf": 0.95
+        },
+        {
+          "line_id": 10,
+          "word_index": 4,
+          "start": 63.64,
+          "end": 63.86,
+          "conf": 1.0
+        },
+        {
+          "line_id": 10,
+          "word_index": 5,
+          "start": 63.86,
+          "end": 64.595,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "3b333137cb827a59f5da9bf4a95f0220c04228fa52a92e573783994402831c2d",
+        "0ac41a0ec75bfa52ddda062704a2ee093a113c2e3b304a0bf4d4cd0501a098e3",
+        "e3d11da4dd6ea5b4e328df9a80ad217a029e137b25f0db367fd812e174dee321",
+        "b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09",
+        "4d040d3f6466018c568aadf69a666d4257e5bb350a8e06f7198aedb6b12386fe",
+        "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5"
+      ]
+    },
+    {
+      "id": 11,
+      "start": 64.92,
+      "end": 67.985,
+      "display_end": 68.15,
+      "sha256": "5bfbb223b3ce24d812f2cd60b68d1990b059bb300c0defb39ef0b088f806c94d",
+      "words": [
+        {
+          "line_id": 11,
+          "word_index": 0,
+          "start": 64.92,
+          "end": 65.14,
+          "conf": 0.85
+        },
+        {
+          "line_id": 11,
+          "word_index": 1,
+          "start": 65.14,
+          "end": 65.42,
+          "conf": 0.83
+        },
+        {
+          "line_id": 11,
+          "word_index": 2,
+          "start": 65.42,
+          "end": 65.7,
+          "conf": 0.72
+        },
+        {
+          "line_id": 11,
+          "word_index": 3,
+          "start": 65.795,
+          "end": 66.63,
+          "conf": 0.98
+        },
+        {
+          "line_id": 11,
+          "word_index": 4,
+          "start": 66.63,
+          "end": 67.255,
+          "conf": 0.95
+        },
+        {
+          "line_id": 11,
+          "word_index": 5,
+          "start": 67.255,
+          "end": 67.7,
+          "conf": 0.96
+        },
+        {
+          "line_id": 11,
+          "word_index": 6,
+          "start": 67.7,
+          "end": 67.985,
+          "conf": 0.8
+        }
+      ],
+      "word_hashes": [
+        "c0212a81b08c69f2012a22ccde46fa877b00d21dcc0c1fbd7c2152cd389e274a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9",
+        "fafe97f7def328bbd4f10779b9625a8aa0bfaa143d7ae64e6f5770e47b51cd1d",
+        "d9e36ff2055d23ac1b39509df8e7fa4f34d86b3da922e51fd8a1d539dd10b026",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0"
+      ]
+    },
+    {
+      "id": 12,
+      "start": 68.15,
+      "end": 69.38,
+      "display_end": 69.88,
+      "sha256": "3014ab7d50c682507a9c95cd64c64e46c0db31a838aa0e49e7693701245e56d3",
+      "words": [
+        {
+          "line_id": 12,
+          "word_index": 0,
+          "start": 68.15,
+          "end": 68.455,
+          "conf": 0.66
+        },
+        {
+          "line_id": 12,
+          "word_index": 1,
+          "start": 68.455,
+          "end": 69.38,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78"
+      ]
+    },
+    {
+      "id": 14,
+      "start": 82.955,
+      "end": 84.885,
+      "display_end": 85.385,
+      "sha256": "97b2039607bf072f10c45ef392b93fb19daab6ed5438037c7833cb42b62b66c1",
+      "words": [
+        {
+          "line_id": 14,
+          "word_index": 0,
+          "start": 82.955,
+          "end": 83.335,
+          "conf": 0.8
+        },
+        {
+          "line_id": 14,
+          "word_index": 1,
+          "start": 84.04,
+          "end": 84.32,
+          "conf": 0.76
+        },
+        {
+          "line_id": 14,
+          "word_index": 2,
+          "start": 84.32,
+          "end": 84.405,
+          "conf": 0.84
+        },
+        {
+          "line_id": 14,
+          "word_index": 3,
+          "start": 84.485,
+          "end": 84.885,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "7dece7d7d99ed7ded2f99250503cae3f714b5ccfd978721ce25785ab107d43cd",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "77af778b51abd4a3c51c5ddd97204a9c3ae614ebccb75a606c3b6865aed6744e"
+      ]
+    },
+    {
+      "id": 15,
+      "start": 85.58,
+      "end": 89.23,
+      "display_end": 89.73,
+      "sha256": "0fe6831dc73458f681335a6439bcd04846128c4ff7f62353fd4c9cdafdcf2310",
+      "words": [
+        {
+          "line_id": 15,
+          "word_index": 0,
+          "start": 85.58,
+          "end": 85.99,
+          "conf": 0.77
+        },
+        {
+          "line_id": 15,
+          "word_index": 1,
+          "start": 85.99,
+          "end": 86.4,
+          "conf": 0.85
+        },
+        {
+          "line_id": 15,
+          "word_index": 2,
+          "start": 86.4,
+          "end": 86.905,
+          "conf": 0.96
+        },
+        {
+          "line_id": 15,
+          "word_index": 3,
+          "start": 87.46,
+          "end": 87.71,
+          "conf": 0.67
+        },
+        {
+          "line_id": 15,
+          "word_index": 4,
+          "start": 87.71,
+          "end": 87.92,
+          "conf": 0.89
+        },
+        {
+          "line_id": 15,
+          "word_index": 5,
+          "start": 87.92,
+          "end": 88.145,
+          "conf": 0.83
+        },
+        {
+          "line_id": 15,
+          "word_index": 6,
+          "start": 88.32,
+          "end": 89.23,
+          "conf": 0.87
+        }
+      ],
+      "word_hashes": [
+        "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+        "180ca01b95f0dfdd36fbb600e51cf6e46c8ef468de56b017847886fefaf7b6f9",
+        "02daabcb4c1462b2d1c3990b8b45cb943cdf58e657126a123f4cdddd97a5881c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "4137b01e139589b7a1d3b3fc4da031d8ce5bb415808734e970c3a58ea0e98f0f",
+        "46599c5bb5c33101f80cea8438e2228085513dbbb19b2f5ce97bd68494d3344d",
+        "4c8cb3bfe3ff5a1c0e0fb0994e91cfe6ee261eb2c34946fad6adb0ddb5b9886f"
+      ]
+    },
+    {
+      "id": 16,
+      "start": 89.84,
+      "end": 91.72,
+      "display_end": 92.22,
+      "sha256": "2d85ee33ef78e9679d0677db316d21ff9588ff15c95cd6c5a13fee5c9f569fff",
+      "words": [
+        {
+          "line_id": 16,
+          "word_index": 0,
+          "start": 89.84,
+          "end": 91.155,
+          "conf": 0.83
+        },
+        {
+          "line_id": 16,
+          "word_index": 1,
+          "start": 91.155,
+          "end": 91.36,
+          "conf": 0.98
+        },
+        {
+          "line_id": 16,
+          "word_index": 2,
+          "start": 91.36,
+          "end": 91.72,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "0eae503ef6fdc9459cea1c714cfa3b8080de1c0b84b7277a147d16081da65553",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "b7b30d6e4f8c864714bf46cb6df3e5cc89c91af4ac4f31edac07cdf1f9090d4d"
+      ]
+    },
+    {
+      "id": 17,
+      "start": 92.435,
+      "end": 96.795,
+      "display_end": 96.795,
+      "sha256": "3570f5dfd43827466a3f8481a1d94d7feed57a8d300266bc77d62dfe5a063cb8",
+      "words": [
+        {
+          "line_id": 17,
+          "word_index": 0,
+          "start": 92.435,
+          "end": 93.315,
+          "conf": 0.8
+        },
+        {
+          "line_id": 17,
+          "word_index": 1,
+          "start": 93.315,
+          "end": 93.565,
+          "conf": 0.96
+        },
+        {
+          "line_id": 17,
+          "word_index": 2,
+          "start": 93.565,
+          "end": 93.865,
+          "conf": 1.0
+        },
+        {
+          "line_id": 17,
+          "word_index": 3,
+          "start": 94.38,
+          "end": 94.64,
+          "conf": 0.86
+        },
+        {
+          "line_id": 17,
+          "word_index": 4,
+          "start": 94.64,
+          "end": 94.8,
+          "conf": 0.81
+        },
+        {
+          "line_id": 17,
+          "word_index": 5,
+          "start": 94.8,
+          "end": 95.57,
+          "conf": 0.86
+        },
+        {
+          "line_id": 17,
+          "word_index": 6,
+          "start": 95.68,
+          "end": 96.795,
+          "conf": 0.76
+        }
+      ],
+      "word_hashes": [
+        "3525a833c81237216458787bfb5ee11f47a269643953f742405b4095a08acd90",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "b7b30d6e4f8c864714bf46cb6df3e5cc89c91af4ac4f31edac07cdf1f9090d4d",
+        "cdc29937887188ad3702d1831d5b7ec66333a2a909e1f242432eb168d4c7b08b",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "6497e4b3d7bed16979a343a7db4efa6d57725529f5ac3cec45c1f08fabcbdafc",
+        "b66358a34a718d2af7d501f2a51fe2f610c082180f9d6ee9a3a28e8881d290dd"
+      ]
+    },
+    {
+      "id": 18,
+      "start": 96.795,
+      "end": 98.72,
+      "display_end": 98.86,
+      "sha256": "dd1d980484edd3ce320a027bce5655cfea5fcaea944fe35edc56960cc0338e1c",
+      "words": [
+        {
+          "line_id": 18,
+          "word_index": 0,
+          "start": 96.795,
+          "end": 97.06,
+          "conf": 0.7
+        },
+        {
+          "line_id": 18,
+          "word_index": 1,
+          "start": 97.86,
+          "end": 98.12,
+          "conf": 0.77
+        },
+        {
+          "line_id": 18,
+          "word_index": 2,
+          "start": 98.12,
+          "end": 98.22,
+          "conf": 0.98
+        },
+        {
+          "line_id": 18,
+          "word_index": 3,
+          "start": 98.22,
+          "end": 98.72,
+          "conf": 0.73
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "7dece7d7d99ed7ded2f99250503cae3f714b5ccfd978721ce25785ab107d43cd",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "aff0f313b5568afc194be9bfc378765a2be4f6dc804b80d226bc71dbc1d825f0"
+      ]
+    },
+    {
+      "id": 19,
+      "start": 98.86,
+      "end": 103.635,
+      "display_end": 103.7,
+      "sha256": "59a4e1a049ae000ca80348d6877591c79b679e48f76700645590d2bedd9e7dab",
+      "words": [
+        {
+          "line_id": 19,
+          "word_index": 0,
+          "start": 98.86,
+          "end": 99.605,
+          "conf": 0.58
+        },
+        {
+          "line_id": 19,
+          "word_index": 1,
+          "start": 99.605,
+          "end": 100.26,
+          "conf": 0.85
+        },
+        {
+          "line_id": 19,
+          "word_index": 2,
+          "start": 100.26,
+          "end": 100.745,
+          "conf": 0.93
+        },
+        {
+          "line_id": 19,
+          "word_index": 3,
+          "start": 101.32,
+          "end": 101.84,
+          "conf": 0.98
+        },
+        {
+          "line_id": 19,
+          "word_index": 4,
+          "start": 101.84,
+          "end": 102.185,
+          "conf": 0.81
+        },
+        {
+          "line_id": 19,
+          "word_index": 5,
+          "start": 102.185,
+          "end": 102.92,
+          "conf": 0.83
+        },
+        {
+          "line_id": 19,
+          "word_index": 6,
+          "start": 103.11,
+          "end": 103.635,
+          "conf": 0.74
+        }
+      ],
+      "word_hashes": [
+        "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+        "0551fa29ca5a6937e2c06521c01a72150169606e28dd87c96f5a02bc3281b43a",
+        "613ddd99cbf66c00d1984b1b8c09646ceae395b4b22f2db073754e5008a199d9",
+        "2d3c822d9399e7ac0eac840fa8567eb0d7a376e8235d38c96529f1c40e647697",
+        "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "5ef2c394d5b63e4175cd331c74c8453c3e36eb8f47f6d648397ff6c1314fd705",
+        "549ce58984289d8f03917ff58fa5b197809b7c4a6422d2095ad177175e8b3a04"
+      ]
+    },
+    {
+      "id": 20,
+      "start": 103.7,
+      "end": 106.6,
+      "display_end": 106.6,
+      "sha256": "4ed3c95e7ed1d3860ff8121e4a3dd95319df97920abea02ee66a5647a4e9bf7c",
+      "words": [
+        {
+          "line_id": 20,
+          "word_index": 0,
+          "start": 103.7,
+          "end": 104.12,
+          "conf": 0.89
+        },
+        {
+          "line_id": 20,
+          "word_index": 1,
+          "start": 104.815,
+          "end": 105.22,
+          "conf": 0.85
+        },
+        {
+          "line_id": 20,
+          "word_index": 2,
+          "start": 105.22,
+          "end": 105.42,
+          "conf": 0.82
+        },
+        {
+          "line_id": 20,
+          "word_index": 3,
+          "start": 105.42,
+          "end": 106.6,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "62c7eee41c15bb5d7929fb0e52ac38d62a7e6ce25b5bbcbf4cd3c8896a53395b",
+        "b8d31e852725afb1e26d53bab6095b2bff1749c9275be13ed1c05a56ed31ec09",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "31207a2065f46a5b948fce6fe5c13e85abaf5631e2f894b47dcd4fce14f6c57b"
+      ]
+    },
+    {
+      "id": 21,
+      "start": 106.6,
+      "end": 109.12,
+      "display_end": 109.26,
+      "sha256": "ca476548d069470f3ad0f9ba115bf778c68c51e1514a957b497c85fa137791de",
+      "words": [
+        {
+          "line_id": 21,
+          "word_index": 0,
+          "start": 106.6,
+          "end": 107.215,
+          "conf": 1.0
+        },
+        {
+          "line_id": 21,
+          "word_index": 1,
+          "start": 107.215,
+          "end": 107.715,
+          "conf": 0.97
+        },
+        {
+          "line_id": 21,
+          "word_index": 2,
+          "start": 108.485,
+          "end": 109.12,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "8e588cd187741f1cd76f5fab77b7208782a8c21d764ce7d7a4cf3ac4e0968873",
+        "50270c12c086cb3616ad7f7b98199589b7bb8f181dfd0d6dbf887b4b1a2552c0",
+        "106b086224a4d945eae25f7be3805a931a873270326dd868b0e41f71ee9fff72"
+      ]
+    },
+    {
+      "id": 22,
+      "start": 109.26,
+      "end": 112.95,
+      "display_end": 113.225,
+      "sha256": "073f482db230a435d4330df1ef0fc59b2ba8777ad88bba03b07ea07a308ab545",
+      "words": [
+        {
+          "line_id": 22,
+          "word_index": 0,
+          "start": 109.26,
+          "end": 110.02,
+          "conf": 0.79
+        },
+        {
+          "line_id": 22,
+          "word_index": 1,
+          "start": 110.02,
+          "end": 110.22,
+          "conf": 0.8
+        },
+        {
+          "line_id": 22,
+          "word_index": 2,
+          "start": 110.22,
+          "end": 110.485,
+          "conf": 0.95
+        },
+        {
+          "line_id": 22,
+          "word_index": 3,
+          "start": 110.485,
+          "end": 111.12,
+          "conf": 1.0
+        },
+        {
+          "line_id": 22,
+          "word_index": 4,
+          "start": 111.96,
+          "end": 112.125,
+          "conf": 0.85
+        },
+        {
+          "line_id": 22,
+          "word_index": 5,
+          "start": 112.125,
+          "end": 112.95,
+          "conf": 0.9
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "c06b0cfe0cc5e900c57784484094331f095bf441995c3c31ea6c75691c786c35"
+      ]
+    },
+    {
+      "id": 23,
+      "start": 113.225,
+      "end": 116.38,
+      "display_end": 116.73,
+      "sha256": "21e3f414d3adba2657ebae6ed066700d25300976d89d7bdae4b224ec32065c22",
+      "words": [
+        {
+          "line_id": 23,
+          "word_index": 0,
+          "start": 113.225,
+          "end": 113.495,
+          "conf": 1.0
+        },
+        {
+          "line_id": 23,
+          "word_index": 1,
+          "start": 113.495,
+          "end": 113.64,
+          "conf": 1.0
+        },
+        {
+          "line_id": 23,
+          "word_index": 2,
+          "start": 113.7,
+          "end": 113.84,
+          "conf": 0.99
+        },
+        {
+          "line_id": 23,
+          "word_index": 3,
+          "start": 113.84,
+          "end": 114.08,
+          "conf": 0.95
+        },
+        {
+          "line_id": 23,
+          "word_index": 4,
+          "start": 114.08,
+          "end": 114.6,
+          "conf": 1.0
+        },
+        {
+          "line_id": 23,
+          "word_index": 5,
+          "start": 114.96,
+          "end": 115.94,
+          "conf": 0.72
+        },
+        {
+          "line_id": 23,
+          "word_index": 6,
+          "start": 115.94,
+          "end": 116.38,
+          "conf": 0.77
+        }
+      ],
+      "word_hashes": [
+        "08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd",
+        "4137b01e139589b7a1d3b3fc4da031d8ce5bb415808734e970c3a58ea0e98f0f",
+        "46599c5bb5c33101f80cea8438e2228085513dbbb19b2f5ce97bd68494d3344d",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "24ea913efda289dc1b17d80ab567c21e0f051b26f7a4bb65b1e70817febb6b4f",
+        "447f7f5c325ea17e635bef91bac42e27c55490450f38f1815d8d6c0bb36687ac",
+        "63212655f2e25a8f89eeb6653853cece8901e24c4a4c1dee70e53b68bad3e19c"
+      ]
+    },
+    {
+      "id": 24,
+      "start": 116.73,
+      "end": 119.805,
+      "display_end": 120.14,
+      "sha256": "1d7341cd61619369a0826886ec0f69f6d6fc84fa7ae793e3178c8da1f16328dd",
+      "words": [
+        {
+          "line_id": 24,
+          "word_index": 0,
+          "start": 116.73,
+          "end": 117.155,
+          "conf": 1.0
+        },
+        {
+          "line_id": 24,
+          "word_index": 1,
+          "start": 117.155,
+          "end": 117.38,
+          "conf": 0.91
+        },
+        {
+          "line_id": 24,
+          "word_index": 2,
+          "start": 117.38,
+          "end": 117.54,
+          "conf": 0.96
+        },
+        {
+          "line_id": 24,
+          "word_index": 3,
+          "start": 117.54,
+          "end": 117.895,
+          "conf": 0.7
+        },
+        {
+          "line_id": 24,
+          "word_index": 4,
+          "start": 118.2,
+          "end": 118.445,
+          "conf": 0.81
+        },
+        {
+          "line_id": 24,
+          "word_index": 5,
+          "start": 118.445,
+          "end": 119.805,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "8c29bf34483dc157c14ffb531c5084c879af19ec75069d4e1a14033013ece963",
+        "935f68319d4f227e02bfd54a0ddf85b8a242e42a4277aa5ef5eaab691710924e",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "34659fd61a72a85204b4f191879ba9064fcb4112618e0fc6c51112cfd555b0d9",
+        "b2c66dfd45dd07f58d2246b695660b220ee429c6a8ba95f27e4c57f02e9d6ac8",
+        "d8d0944f82b71168a257ee50328cbd1d0bdd8f0fc2edd527172d5cfaaa72dda7"
+      ]
+    },
+    {
+      "id": 25,
+      "start": 120.14,
+      "end": 123.2,
+      "display_end": 123.475,
+      "sha256": "b66585368ba796021519a7d84987addad1f6032c238fbe56fae0a5f26de68d9e",
+      "words": [
+        {
+          "line_id": 25,
+          "word_index": 0,
+          "start": 120.14,
+          "end": 120.34,
+          "conf": 0.94
+        },
+        {
+          "line_id": 25,
+          "word_index": 1,
+          "start": 120.34,
+          "end": 120.6,
+          "conf": 0.86
+        },
+        {
+          "line_id": 25,
+          "word_index": 2,
+          "start": 120.6,
+          "end": 121.025,
+          "conf": 1.0
+        },
+        {
+          "line_id": 25,
+          "word_index": 3,
+          "start": 121.025,
+          "end": 121.805,
+          "conf": 1.0
+        },
+        {
+          "line_id": 25,
+          "word_index": 4,
+          "start": 121.805,
+          "end": 122.465,
+          "conf": 0.97
+        },
+        {
+          "line_id": 25,
+          "word_index": 5,
+          "start": 122.465,
+          "end": 122.94,
+          "conf": 1.0
+        },
+        {
+          "line_id": 25,
+          "word_index": 6,
+          "start": 122.94,
+          "end": 123.2,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "c0212a81b08c69f2012a22ccde46fa877b00d21dcc0c1fbd7c2152cd389e274a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9",
+        "fafe97f7def328bbd4f10779b9625a8aa0bfaa143d7ae64e6f5770e47b51cd1d",
+        "c06b0cfe0cc5e900c57784484094331f095bf441995c3c31ea6c75691c786c35",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0"
+      ]
+    },
+    {
+      "id": 26,
+      "start": 123.475,
+      "end": 126.36,
+      "display_end": 126.36,
+      "sha256": "ba09714afe7a43db079495e223fe1d28306cf2dac2eec24abd52c6772b299284",
+      "words": [
+        {
+          "line_id": 26,
+          "word_index": 0,
+          "start": 123.475,
+          "end": 123.86,
+          "conf": 0.9
+        },
+        {
+          "line_id": 26,
+          "word_index": 1,
+          "start": 123.86,
+          "end": 124.02,
+          "conf": 0.84
+        },
+        {
+          "line_id": 26,
+          "word_index": 2,
+          "start": 124.02,
+          "end": 124.24,
+          "conf": 0.93
+        },
+        {
+          "line_id": 26,
+          "word_index": 3,
+          "start": 124.24,
+          "end": 124.72,
+          "conf": 1.0
+        },
+        {
+          "line_id": 26,
+          "word_index": 4,
+          "start": 125.76,
+          "end": 125.97,
+          "conf": 0.6
+        },
+        {
+          "line_id": 26,
+          "word_index": 5,
+          "start": 125.97,
+          "end": 126.36,
+          "conf": 0.6
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "79a5478768d2447431a90f7f4549df735f50ad541371464c248abc7522dc3a01"
+      ]
+    },
+    {
+      "id": 27,
+      "start": 126.36,
+      "end": 130.18,
+      "display_end": 130.42,
+      "sha256": "1a4d19af15cc9d37268a4c855e620622eebebad464bb3dc911f083921225e176",
+      "words": [
+        {
+          "line_id": 27,
+          "word_index": 0,
+          "start": 126.36,
+          "end": 126.68,
+          "conf": 0.6
+        },
+        {
+          "line_id": 27,
+          "word_index": 1,
+          "start": 127.005,
+          "end": 127.45,
+          "conf": 0.85
+        },
+        {
+          "line_id": 27,
+          "word_index": 2,
+          "start": 127.45,
+          "end": 127.695,
+          "conf": 0.85
+        },
+        {
+          "line_id": 27,
+          "word_index": 3,
+          "start": 127.695,
+          "end": 127.88,
+          "conf": 1.0
+        },
+        {
+          "line_id": 27,
+          "word_index": 4,
+          "start": 127.88,
+          "end": 128.295,
+          "conf": 0.78
+        },
+        {
+          "line_id": 27,
+          "word_index": 5,
+          "start": 128.7,
+          "end": 129.12,
+          "conf": 0.85
+        },
+        {
+          "line_id": 27,
+          "word_index": 6,
+          "start": 129.12,
+          "end": 129.42,
+          "conf": 1.0
+        },
+        {
+          "line_id": 27,
+          "word_index": 7,
+          "start": 129.42,
+          "end": 129.695,
+          "conf": 1.0
+        },
+        {
+          "line_id": 27,
+          "word_index": 8,
+          "start": 129.695,
+          "end": 130.18,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "d9655e1668a3c93a7bd31274b1b330d7babca5b98c181082931ab2c3909bd329",
+        "cab2644828bcc1f220612fde559864da2c5bf0c6eebdcadbb4a4c88c9fcf3927",
+        "5ef5ef0364b6939c4ca61f34b393f7b368d1be8619647aaf83d5b395919ab629",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "ecc745a0d5a1f7577b5fe359049f7b2ae05e9bd4cae3414da849866f03699d83",
+        "ffbfabc54ca8a26ef654e1dfecce9802d96326869199f4b1dbac0adb1fe7de06",
+        "75857a45899985be4c4d941e90b6b396d6c92a4c7437aaf0bf102089fe21379d",
+        "4d040d3f6466018c568aadf69a666d4257e5bb350a8e06f7198aedb6b12386fe",
+        "45a229d57d35d935b67ce83a69f0353508b131ca39325494db3520252c841e10"
+      ]
+    },
+    {
+      "id": 28,
+      "start": 130.42,
+      "end": 133.525,
+      "display_end": 133.88,
+      "sha256": "c0550dafdd152a19f2ec1f77f04f38ac5bc3d6ce5ad9389a931bfccd4e3a37e9",
+      "words": [
+        {
+          "line_id": 28,
+          "word_index": 0,
+          "start": 130.42,
+          "end": 130.65,
+          "conf": 0.72
+        },
+        {
+          "line_id": 28,
+          "word_index": 1,
+          "start": 130.65,
+          "end": 130.82,
+          "conf": 1.0
+        },
+        {
+          "line_id": 28,
+          "word_index": 2,
+          "start": 130.82,
+          "end": 131.235,
+          "conf": 1.0
+        },
+        {
+          "line_id": 28,
+          "word_index": 3,
+          "start": 131.31,
+          "end": 131.655,
+          "conf": 0.97
+        },
+        {
+          "line_id": 28,
+          "word_index": 4,
+          "start": 131.95,
+          "end": 132.05,
+          "conf": 0.84
+        },
+        {
+          "line_id": 28,
+          "word_index": 5,
+          "start": 132.05,
+          "end": 132.385,
+          "conf": 0.95
+        },
+        {
+          "line_id": 28,
+          "word_index": 6,
+          "start": 132.385,
+          "end": 132.64,
+          "conf": 0.87
+        },
+        {
+          "line_id": 28,
+          "word_index": 7,
+          "start": 132.64,
+          "end": 133.525,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "869360a6f4f268964b8cb8f0204924f6e2bbeb50979619ba791f0b62f295c228",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "c8c97cdd252556bc893ccba057aa851597ee6a6786cf71e599c2b5d4e8558fd0",
+        "c6dd28bf93e66ada08a6e374779671a3c8e11933046cf2101a50b28e7c776384",
+        "0695b563acde461fc2f8d9aebccf35c7596ac458b8d8e067c602fb7b4e5f1578",
+        "4dc2159bba05da394c3b94c6f54354db1f1f43b321ac4bbdfc2f658237858c70",
+        "8187ccb4d451d4e3bb9cafb47ec872793fe34fed47332ebd9fae3f159e407c24",
+        "d0358af9d7d72c38645a5db885ced394a1c8ca7d176edd7448f4f6390ce262ed"
+      ]
+    },
+    {
+      "id": 29,
+      "start": 133.88,
+      "end": 136.93,
+      "display_end": 137.1,
+      "sha256": "2ada269abe8f8314684cb6acc0c8618f24d6f260af9c9f77997e98762a01378b",
+      "words": [
+        {
+          "line_id": 29,
+          "word_index": 0,
+          "start": 133.88,
+          "end": 134.08,
+          "conf": 0.92
+        },
+        {
+          "line_id": 29,
+          "word_index": 1,
+          "start": 134.08,
+          "end": 134.34,
+          "conf": 0.75
+        },
+        {
+          "line_id": 29,
+          "word_index": 2,
+          "start": 134.34,
+          "end": 134.72,
+          "conf": 0.98
+        },
+        {
+          "line_id": 29,
+          "word_index": 3,
+          "start": 134.72,
+          "end": 135.58,
+          "conf": 1.0
+        },
+        {
+          "line_id": 29,
+          "word_index": 4,
+          "start": 135.58,
+          "end": 136.175,
+          "conf": 0.87
+        },
+        {
+          "line_id": 29,
+          "word_index": 5,
+          "start": 136.175,
+          "end": 136.6,
+          "conf": 0.85
+        },
+        {
+          "line_id": 29,
+          "word_index": 6,
+          "start": 136.68,
+          "end": 136.93,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "c0212a81b08c69f2012a22ccde46fa877b00d21dcc0c1fbd7c2152cd389e274a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9",
+        "fafe97f7def328bbd4f10779b9625a8aa0bfaa143d7ae64e6f5770e47b51cd1d",
+        "79a5478768d2447431a90f7f4549df735f50ad541371464c248abc7522dc3a01",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0"
+      ]
+    },
+    {
+      "id": 30,
+      "start": 137.1,
+      "end": 138.265,
+      "display_end": 138.765,
+      "sha256": "3014ab7d50c682507a9c95cd64c64e46c0db31a838aa0e49e7693701245e56d3",
+      "words": [
+        {
+          "line_id": 30,
+          "word_index": 0,
+          "start": 137.1,
+          "end": 137.4,
+          "conf": 0.75
+        },
+        {
+          "line_id": 30,
+          "word_index": 1,
+          "start": 137.4,
+          "end": 138.265,
+          "conf": 0.92
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78"
+      ]
+    },
+    {
+      "id": 32,
+      "start": 151.945,
+      "end": 153.915,
+      "display_end": 154.415,
+      "sha256": "ea1cb8a8b016b2a3405a8ef97d4d5ae957ff5b0d84cc0cda6c7922237ed73322",
+      "words": [
+        {
+          "line_id": 32,
+          "word_index": 0,
+          "start": 151.945,
+          "end": 152.28,
+          "conf": 0.82
+        },
+        {
+          "line_id": 32,
+          "word_index": 1,
+          "start": 153.04,
+          "end": 153.34,
+          "conf": 0.79
+        },
+        {
+          "line_id": 32,
+          "word_index": 2,
+          "start": 153.34,
+          "end": 153.42,
+          "conf": 0.69
+        },
+        {
+          "line_id": 32,
+          "word_index": 3,
+          "start": 153.49,
+          "end": 153.915,
+          "conf": 0.97
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "7dece7d7d99ed7ded2f99250503cae3f714b5ccfd978721ce25785ab107d43cd",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "34235a2c502e3919d3f00af5dabb87cb58aef4566b10631f2a5db94950ebffbd"
+      ]
+    },
+    {
+      "id": 33,
+      "start": 154.635,
+      "end": 155.89,
+      "display_end": 156.39,
+      "sha256": "951c7a41526ab2826a4a4d7acd95f4961df893ecaab122f56d9a08fc00f9c127",
+      "words": [
+        {
+          "line_id": 33,
+          "word_index": 0,
+          "start": 154.635,
+          "end": 154.9,
+          "conf": 0.77
+        },
+        {
+          "line_id": 33,
+          "word_index": 1,
+          "start": 155.03,
+          "end": 155.235,
+          "conf": 0.82
+        },
+        {
+          "line_id": 33,
+          "word_index": 2,
+          "start": 155.235,
+          "end": 155.36,
+          "conf": 0.88
+        },
+        {
+          "line_id": 33,
+          "word_index": 3,
+          "start": 155.36,
+          "end": 155.89,
+          "conf": 0.95
+        }
+      ],
+      "word_hashes": [
+        "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+        "34235a2c502e3919d3f00af5dabb87cb58aef4566b10631f2a5db94950ebffbd",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "85fc17f7069acd39a5c636cd0a6530651096128da447959f5e250824857dc559"
+      ]
+    },
+    {
+      "id": 34,
+      "start": 156.52,
+      "end": 158.17,
+      "display_end": 158.67,
+      "sha256": "ed9d2266adc487795a28b8fee17387e2f1b2234e09e5f3f3d671349487f43fd5",
+      "words": [
+        {
+          "line_id": 34,
+          "word_index": 0,
+          "start": 156.52,
+          "end": 156.76,
+          "conf": 0.82
+        },
+        {
+          "line_id": 34,
+          "word_index": 1,
+          "start": 156.76,
+          "end": 156.985,
+          "conf": 1.0
+        },
+        {
+          "line_id": 34,
+          "word_index": 2,
+          "start": 156.985,
+          "end": 157.185,
+          "conf": 1.0
+        },
+        {
+          "line_id": 34,
+          "word_index": 3,
+          "start": 157.38,
+          "end": 158.17,
+          "conf": 0.73
+        }
+      ],
+      "word_hashes": [
+        "08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd",
+        "4137b01e139589b7a1d3b3fc4da031d8ce5bb415808734e970c3a58ea0e98f0f",
+        "a893810ee48d30ba15dd44450c0a966ae913990ac5081b8442ed263aa0b84714",
+        "1098b8fb171c2e5fe8f0cbe9674e0950b75e08e7782af0d995966bbd69d22f8a"
+      ]
+    },
+    {
+      "id": 35,
+      "start": 158.92,
+      "end": 160.7,
+      "display_end": 161.2,
+      "sha256": "957ad221e87302af80ee2324f48c1ef7d21c67b0e11a0139a3ca6dff6c5dc8e3",
+      "words": [
+        {
+          "line_id": 35,
+          "word_index": 0,
+          "start": 158.92,
+          "end": 159.21,
+          "conf": 0.74
+        },
+        {
+          "line_id": 35,
+          "word_index": 1,
+          "start": 159.98,
+          "end": 160.22,
+          "conf": 0.7
+        },
+        {
+          "line_id": 35,
+          "word_index": 2,
+          "start": 160.22,
+          "end": 160.335,
+          "conf": 0.8
+        },
+        {
+          "line_id": 35,
+          "word_index": 3,
+          "start": 160.4,
+          "end": 160.7,
+          "conf": 0.81
+        }
+      ],
+      "word_hashes": [
+        "6be0b57116dc1225fbaaf7c68705fbfc2958bc827c3cc23a995c556bb858508b",
+        "10beaccfc7da1c3f63402e858c0c19856c0b6c125653c07a26910ac62f752df8",
+        "2ad8a7049d7c5511ac254f5f51fe70a046ebd884729056f0fe57f5160d467153",
+        "5e583a870a478fd3b94861ef82d4610bbfa7dbfa9b70c3c137dedcc8022c6b1f"
+      ]
+    },
+    {
+      "id": 36,
+      "start": 161.47,
+      "end": 162.825,
+      "display_end": 163.325,
+      "sha256": "69c2f8ae58a60564e50f6b2c6350277c2af5184ea7e81467714c45521c28d83a",
+      "words": [
+        {
+          "line_id": 36,
+          "word_index": 0,
+          "start": 161.47,
+          "end": 161.95,
+          "conf": 0.67
+        },
+        {
+          "line_id": 36,
+          "word_index": 1,
+          "start": 161.95,
+          "end": 162.17,
+          "conf": 0.74
+        },
+        {
+          "line_id": 36,
+          "word_index": 2,
+          "start": 162.17,
+          "end": 162.375,
+          "conf": 0.76
+        },
+        {
+          "line_id": 36,
+          "word_index": 3,
+          "start": 162.375,
+          "end": 162.825,
+          "conf": 0.88
+        }
+      ],
+      "word_hashes": [
+        "38681a119ffadddeb55883790a2b9a54aaa61d830d57e244941dca1168e1501f",
+        "8e7fc0236af43df9340685fc16f1efe36543cc1707051220a103ad99cf69a2df",
+        "98c1eb4ee93476743763878fcb96a25fbc9a175074d64004779ecb5242f645e6",
+        "80cd1514941e89ed1c451a79498a0aac3253ea4d9cef88e592acc236f9b77864"
+      ]
+    },
+    {
+      "id": 37,
+      "start": 163.66,
+      "end": 165.98,
+      "display_end": 165.98,
+      "sha256": "cc5b9f49a8e7ea2437269668018013dea481c53f9d79c290a3f0d5c148ae9c45",
+      "words": [
+        {
+          "line_id": 37,
+          "word_index": 0,
+          "start": 163.66,
+          "end": 165.98,
+          "conf": 0.8
+        }
+      ],
+      "word_hashes": [
+        "cc5b9f49a8e7ea2437269668018013dea481c53f9d79c290a3f0d5c148ae9c45"
+      ]
+    },
+    {
+      "id": 38,
+      "start": 165.98,
+      "end": 167.57,
+      "display_end": 168.07,
+      "sha256": "469e9096281e43f6f27311275744bb4550f53fd84bc2580df0f99cebfd16199e",
+      "words": [
+        {
+          "line_id": 38,
+          "word_index": 0,
+          "start": 165.98,
+          "end": 166.23,
+          "conf": 0.71
+        },
+        {
+          "line_id": 38,
+          "word_index": 1,
+          "start": 166.92,
+          "end": 167.045,
+          "conf": 0.85
+        },
+        {
+          "line_id": 38,
+          "word_index": 2,
+          "start": 167.08,
+          "end": 167.235,
+          "conf": 0.82
+        },
+        {
+          "line_id": 38,
+          "word_index": 3,
+          "start": 167.235,
+          "end": 167.57,
+          "conf": 0.94
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "0e031e954a432055ace97e08d1a097013f562c021a1c3aa3ab4948dd56793b86",
+        "39be15289c7942a8e7765d75584b0bce0a4a39c29a356fbaee44f63848ba6cb0"
+      ]
+    },
+    {
+      "id": 39,
+      "start": 168.515,
+      "end": 169.8,
+      "display_end": 170.195,
+      "sha256": "375e8dece0676b762b10acda7518720020c95feb69f333f4d31f768195b73d7a",
+      "words": [
+        {
+          "line_id": 39,
+          "word_index": 0,
+          "start": 168.515,
+          "end": 168.86,
+          "conf": 0.85
+        },
+        {
+          "line_id": 39,
+          "word_index": 1,
+          "start": 168.86,
+          "end": 169.08,
+          "conf": 0.9
+        },
+        {
+          "line_id": 39,
+          "word_index": 2,
+          "start": 169.08,
+          "end": 169.3,
+          "conf": 0.8
+        },
+        {
+          "line_id": 39,
+          "word_index": 3,
+          "start": 169.3,
+          "end": 169.58,
+          "conf": 0.98
+        },
+        {
+          "line_id": 39,
+          "word_index": 4,
+          "start": 169.58,
+          "end": 169.8,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "08fd1de4b04df4a2fe763ac67ade9d0fd7c65202c49be6adb5397717fa96504e",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "44c5e7071f3a75a22457bc5f06d3e2ba564b4d6ee8165fb0e9087bacf953bcc3",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "ba78973ddcf98d4e5369f5e722d681d94f5106895e5d6cf6fa3ca8240fabdc14"
+      ]
+    },
+    {
+      "id": 40,
+      "start": 170.195,
+      "end": 171.945,
+      "display_end": 172.275,
+      "sha256": "8c4e680189071738a3e9465707a09a4a1912a59aff9d899880e016c5901ea75a",
+      "words": [
+        {
+          "line_id": 40,
+          "word_index": 0,
+          "start": 170.195,
+          "end": 170.66,
+          "conf": 1.0
+        },
+        {
+          "line_id": 40,
+          "word_index": 1,
+          "start": 170.66,
+          "end": 170.75,
+          "conf": 0.8
+        },
+        {
+          "line_id": 40,
+          "word_index": 2,
+          "start": 170.805,
+          "end": 171.075,
+          "conf": 0.94
+        },
+        {
+          "line_id": 40,
+          "word_index": 3,
+          "start": 171.72,
+          "end": 171.945,
+          "conf": 0.79
+        }
+      ],
+      "word_hashes": [
+        "fb1df1a24e3f6a12ee1fcb639a5c6d61d7919dc10ccb363b7ed75303b0391798",
+        "a83dd0ccbffe39d071cc317ddf6e97f5c6b1c87af91919271f9fa140b0508c6c",
+        "9f584196e7fe6de85d3898bc0b11c78b1d0a1d49530ee5eaf7c26c3939cf043d",
+        "9e1b08ffd77ff37baef406d9cd456dafd33eb6ca0226e06990778f712e163828"
+      ]
+    },
+    {
+      "id": 41,
+      "start": 172.275,
+      "end": 174.6,
+      "display_end": 175.1,
+      "sha256": "a7cdf1f2deae8caff5967deb05ae703b54bb341c7c257857d38eb5b37b67d94d",
+      "words": [
+        {
+          "line_id": 41,
+          "word_index": 0,
+          "start": 172.275,
+          "end": 172.78,
+          "conf": 0.67
+        },
+        {
+          "line_id": 41,
+          "word_index": 1,
+          "start": 172.78,
+          "end": 173.115,
+          "conf": 0.91
+        },
+        {
+          "line_id": 41,
+          "word_index": 2,
+          "start": 173.86,
+          "end": 174.09,
+          "conf": 0.92
+        },
+        {
+          "line_id": 41,
+          "word_index": 3,
+          "start": 174.12,
+          "end": 174.24,
+          "conf": 0.65
+        },
+        {
+          "line_id": 41,
+          "word_index": 4,
+          "start": 174.24,
+          "end": 174.6,
+          "conf": 0.89
+        }
+      ],
+      "word_hashes": [
+        "ec5acd5e21ac22d556a4783140a064054939e9c8b9217b0fe94f3496024a84d3",
+        "818f2e37accf6bbfb0159bf36367f9674c862d240c793dbddd225e525c260e6f",
+        "10beaccfc7da1c3f63402e858c0c19856c0b6c125653c07a26910ac62f752df8",
+        "2ad8a7049d7c5511ac254f5f51fe70a046ebd884729056f0fe57f5160d467153",
+        "5e583a870a478fd3b94861ef82d4610bbfa7dbfa9b70c3c137dedcc8022c6b1f"
+      ]
+    },
+    {
+      "id": 42,
+      "start": 175.58,
+      "end": 176.75,
+      "display_end": 177.25,
+      "sha256": "69c2f8ae58a60564e50f6b2c6350277c2af5184ea7e81467714c45521c28d83a",
+      "words": [
+        {
+          "line_id": 42,
+          "word_index": 0,
+          "start": 175.58,
+          "end": 175.8,
+          "conf": 0.9
+        },
+        {
+          "line_id": 42,
+          "word_index": 1,
+          "start": 175.8,
+          "end": 176.02,
+          "conf": 0.78
+        },
+        {
+          "line_id": 42,
+          "word_index": 2,
+          "start": 176.02,
+          "end": 176.23,
+          "conf": 0.78
+        },
+        {
+          "line_id": 42,
+          "word_index": 3,
+          "start": 176.23,
+          "end": 176.75,
+          "conf": 0.91
+        }
+      ],
+      "word_hashes": [
+        "38681a119ffadddeb55883790a2b9a54aaa61d830d57e244941dca1168e1501f",
+        "8e7fc0236af43df9340685fc16f1efe36543cc1707051220a103ad99cf69a2df",
+        "98c1eb4ee93476743763878fcb96a25fbc9a175074d64004779ecb5242f645e6",
+        "80cd1514941e89ed1c451a79498a0aac3253ea4d9cef88e592acc236f9b77864"
+      ]
+    },
+    {
+      "id": 43,
+      "start": 177.48,
+      "end": 179.64,
+      "display_end": 179.64,
+      "sha256": "075fb8da20069b4a059fbf240140c3d6082b2841be467a3b99e3e15da6f11dc5",
+      "words": [
+        {
+          "line_id": 43,
+          "word_index": 0,
+          "start": 177.48,
+          "end": 179.64,
+          "conf": 0.73
+        }
+      ],
+      "word_hashes": [
+        "075fb8da20069b4a059fbf240140c3d6082b2841be467a3b99e3e15da6f11dc5"
+      ]
+    },
+    {
+      "id": 44,
+      "start": 179.64,
+      "end": 182.465,
+      "display_end": 182.68,
+      "sha256": "e0620573645243c341fc486a37c611cde248a1fcf4e863225110b413131ef70c",
+      "words": [
+        {
+          "line_id": 44,
+          "word_index": 0,
+          "start": 179.64,
+          "end": 180.005,
+          "conf": 0.6
+        },
+        {
+          "line_id": 44,
+          "word_index": 1,
+          "start": 180.005,
+          "end": 180.52,
+          "conf": 0.88
+        },
+        {
+          "line_id": 44,
+          "word_index": 2,
+          "start": 180.52,
+          "end": 180.86,
+          "conf": 0.89
+        },
+        {
+          "line_id": 44,
+          "word_index": 3,
+          "start": 180.86,
+          "end": 181.36,
+          "conf": 0.81
+        },
+        {
+          "line_id": 44,
+          "word_index": 4,
+          "start": 181.36,
+          "end": 181.62,
+          "conf": 0.84
+        },
+        {
+          "line_id": 44,
+          "word_index": 5,
+          "start": 181.62,
+          "end": 181.885,
+          "conf": 0.82
+        },
+        {
+          "line_id": 44,
+          "word_index": 6,
+          "start": 181.885,
+          "end": 182.465,
+          "conf": 0.97
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "11c209b437262b61e354ca822d4219f6a37070299ac2680b372dc18fa4ff6370"
+      ]
+    },
+    {
+      "id": 45,
+      "start": 182.68,
+      "end": 186.455,
+      "display_end": 186.54,
+      "sha256": "21cfaf7a7090362904693a34edad7214b0515691939a55c1f17c7d6e3b8f3900",
+      "words": [
+        {
+          "line_id": 45,
+          "word_index": 0,
+          "start": 182.68,
+          "end": 182.895,
+          "conf": 0.85
+        },
+        {
+          "line_id": 45,
+          "word_index": 1,
+          "start": 182.895,
+          "end": 183.045,
+          "conf": 1.0
+        },
+        {
+          "line_id": 45,
+          "word_index": 2,
+          "start": 183.045,
+          "end": 183.54,
+          "conf": 0.98
+        },
+        {
+          "line_id": 45,
+          "word_index": 3,
+          "start": 183.54,
+          "end": 184.015,
+          "conf": 0.87
+        },
+        {
+          "line_id": 45,
+          "word_index": 4,
+          "start": 184.015,
+          "end": 184.445,
+          "conf": 1.0
+        },
+        {
+          "line_id": 45,
+          "word_index": 5,
+          "start": 184.445,
+          "end": 184.835,
+          "conf": 1.0
+        },
+        {
+          "line_id": 45,
+          "word_index": 6,
+          "start": 184.835,
+          "end": 186.455,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "a83dd0ccbffe39d071cc317ddf6e97f5c6b1c87af91919271f9fa140b0508c6c",
+        "9f584196e7fe6de85d3898bc0b11c78b1d0a1d49530ee5eaf7c26c3939cf043d",
+        "aa9e9b5c907d50feb410f2a84e81ab72c5ae6724d57ccc53650f9361d33dc734",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "24ea913efda289dc1b17d80ab567c21e0f051b26f7a4bb65b1e70817febb6b4f",
+        "a0a44ed8cfc32b7e61befeb99bbff7706808c3fe4dcdf4750a8addb3ffcd4008"
+      ]
+    },
+    {
+      "id": 46,
+      "start": 186.54,
+      "end": 189.34,
+      "display_end": 189.54,
+      "sha256": "e0620573645243c341fc486a37c611cde248a1fcf4e863225110b413131ef70c",
+      "words": [
+        {
+          "line_id": 46,
+          "word_index": 0,
+          "start": 186.54,
+          "end": 186.86,
+          "conf": 0.51
+        },
+        {
+          "line_id": 46,
+          "word_index": 1,
+          "start": 186.86,
+          "end": 187.375,
+          "conf": 1.0
+        },
+        {
+          "line_id": 46,
+          "word_index": 2,
+          "start": 187.375,
+          "end": 187.72,
+          "conf": 0.92
+        },
+        {
+          "line_id": 46,
+          "word_index": 3,
+          "start": 187.72,
+          "end": 188.19,
+          "conf": 1.0
+        },
+        {
+          "line_id": 46,
+          "word_index": 4,
+          "start": 188.19,
+          "end": 188.46,
+          "conf": 1.0
+        },
+        {
+          "line_id": 46,
+          "word_index": 5,
+          "start": 188.46,
+          "end": 188.665,
+          "conf": 1.0
+        },
+        {
+          "line_id": 46,
+          "word_index": 6,
+          "start": 188.665,
+          "end": 189.34,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "11c209b437262b61e354ca822d4219f6a37070299ac2680b372dc18fa4ff6370"
+      ]
+    },
+    {
+      "id": 47,
+      "start": 189.54,
+      "end": 192.96,
+      "display_end": 192.96,
+      "sha256": "6cd58c8343bd430d547758834630269dfb7097682898afbdcaf748978e8795b7",
+      "words": [
+        {
+          "line_id": 47,
+          "word_index": 0,
+          "start": 189.54,
+          "end": 189.65,
+          "conf": 0.92
+        },
+        {
+          "line_id": 47,
+          "word_index": 1,
+          "start": 189.65,
+          "end": 190.38,
+          "conf": 1.0
+        },
+        {
+          "line_id": 47,
+          "word_index": 2,
+          "start": 190.38,
+          "end": 190.78,
+          "conf": 0.83
+        },
+        {
+          "line_id": 47,
+          "word_index": 3,
+          "start": 190.78,
+          "end": 191.12,
+          "conf": 0.84
+        },
+        {
+          "line_id": 47,
+          "word_index": 4,
+          "start": 191.12,
+          "end": 191.62,
+          "conf": 0.91
+        },
+        {
+          "line_id": 47,
+          "word_index": 5,
+          "start": 191.62,
+          "end": 192.96,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "8005869283b97178d56d6dd155c08e23d4d1d03d4af2abdbf3b3591070353671",
+        "cd8736cdd6b052cfd09abdb1976f8cacdf4884e973bc32c752ef8413dc6028cb",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "a4076e68ddda2e918e06390b6dc9e42912a80871af18d671aa72582262e6d7e2",
+        "6c45cb72a36e63d522aa54ed8adbd7a29a989474f2f77e0458af8800564ef3cb",
+        "0654fc3f91d142814399048b7cf15a714a590d0fe70824c00cc963be6703a8f6"
+      ]
+    },
+    {
+      "id": 48,
+      "start": 192.96,
+      "end": 196.27,
+      "display_end": 196.27,
+      "sha256": "dafc92e2429f43fc3e92a8cfd5af2fc2f7ee29b2c3f879a236d0b15570d7a44a",
+      "words": [
+        {
+          "line_id": 48,
+          "word_index": 0,
+          "start": 192.96,
+          "end": 193.735,
+          "conf": 0.58
+        },
+        {
+          "line_id": 48,
+          "word_index": 1,
+          "start": 193.735,
+          "end": 194.22,
+          "conf": 0.8
+        },
+        {
+          "line_id": 48,
+          "word_index": 2,
+          "start": 194.22,
+          "end": 194.565,
+          "conf": 0.8
+        },
+        {
+          "line_id": 48,
+          "word_index": 3,
+          "start": 194.565,
+          "end": 195.055,
+          "conf": 0.8
+        },
+        {
+          "line_id": 48,
+          "word_index": 4,
+          "start": 195.055,
+          "end": 195.41,
+          "conf": 0.8
+        },
+        {
+          "line_id": 48,
+          "word_index": 5,
+          "start": 195.41,
+          "end": 195.94,
+          "conf": 0.73
+        },
+        {
+          "line_id": 48,
+          "word_index": 6,
+          "start": 195.94,
+          "end": 196.27,
+          "conf": 0.73
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9"
+      ]
+    },
+    {
+      "id": 49,
+      "start": 196.27,
+      "end": 200.08,
+      "display_end": 200.25,
+      "sha256": "26e02744cc6f790dc18e7641955747ae5bb95cf054dabc377664a1123486d41b",
+      "words": [
+        {
+          "line_id": 49,
+          "word_index": 0,
+          "start": 196.27,
+          "end": 196.77,
+          "conf": 0.73
+        },
+        {
+          "line_id": 49,
+          "word_index": 1,
+          "start": 196.77,
+          "end": 197.125,
+          "conf": 0.73
+        },
+        {
+          "line_id": 49,
+          "word_index": 2,
+          "start": 197.125,
+          "end": 197.52,
+          "conf": 0.73
+        },
+        {
+          "line_id": 49,
+          "word_index": 3,
+          "start": 197.52,
+          "end": 198.07,
+          "conf": 0.7
+        },
+        {
+          "line_id": 49,
+          "word_index": 4,
+          "start": 198.07,
+          "end": 198.48,
+          "conf": 0.7
+        },
+        {
+          "line_id": 49,
+          "word_index": 5,
+          "start": 198.48,
+          "end": 198.99,
+          "conf": 0.7
+        },
+        {
+          "line_id": 49,
+          "word_index": 6,
+          "start": 198.99,
+          "end": 200.08,
+          "conf": 0.6
+        }
+      ],
+      "word_hashes": [
+        "03bd6fca9cf5c1fbb8ac32b7def4942459f0883a9adb4a210b81562cffab233d",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "fcd14446207cf023c234b6728113096f16bd609bac774bf60c4f087fbab0b283"
+      ]
+    },
+    {
+      "id": 50,
+      "start": 200.25,
+      "end": 203.04,
+      "display_end": 203.14,
+      "sha256": "dafc92e2429f43fc3e92a8cfd5af2fc2f7ee29b2c3f879a236d0b15570d7a44a",
+      "words": [
+        {
+          "line_id": 50,
+          "word_index": 0,
+          "start": 200.25,
+          "end": 200.5,
+          "conf": 0.7
+        },
+        {
+          "line_id": 50,
+          "word_index": 1,
+          "start": 200.5,
+          "end": 201.035,
+          "conf": 0.7
+        },
+        {
+          "line_id": 50,
+          "word_index": 2,
+          "start": 201.035,
+          "end": 201.41,
+          "conf": 0.78
+        },
+        {
+          "line_id": 50,
+          "word_index": 3,
+          "start": 201.41,
+          "end": 201.92,
+          "conf": 0.62
+        },
+        {
+          "line_id": 50,
+          "word_index": 4,
+          "start": 201.92,
+          "end": 202.27,
+          "conf": 0.75
+        },
+        {
+          "line_id": 50,
+          "word_index": 5,
+          "start": 202.27,
+          "end": 202.785,
+          "conf": 0.77
+        },
+        {
+          "line_id": 50,
+          "word_index": 6,
+          "start": 202.785,
+          "end": 203.04,
+          "conf": 0.59
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "793bf4908551315d6bb143b83fcc053bbd8353ac8165cd9a8d0627c1a92fcbd2",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9"
+      ]
+    },
+    {
+      "id": 51,
+      "start": 203.14,
+      "end": 206.975,
+      "display_end": 207.475,
+      "sha256": "6acb1d6c72b6eca8e4688da116b7c901e30af2e7d745ad822dd656d95da4168b",
+      "words": [
+        {
+          "line_id": 51,
+          "word_index": 0,
+          "start": 203.14,
+          "end": 203.48,
+          "conf": 0.84
+        },
+        {
+          "line_id": 51,
+          "word_index": 1,
+          "start": 203.48,
+          "end": 203.58,
+          "conf": 0.85
+        },
+        {
+          "line_id": 51,
+          "word_index": 2,
+          "start": 203.58,
+          "end": 204.0,
+          "conf": 0.87
+        },
+        {
+          "line_id": 51,
+          "word_index": 3,
+          "start": 204.08,
+          "end": 204.5,
+          "conf": 0.88
+        },
+        {
+          "line_id": 51,
+          "word_index": 4,
+          "start": 204.5,
+          "end": 204.825,
+          "conf": 0.76
+        },
+        {
+          "line_id": 51,
+          "word_index": 5,
+          "start": 204.825,
+          "end": 205.38,
+          "conf": 0.75
+        },
+        {
+          "line_id": 51,
+          "word_index": 6,
+          "start": 205.38,
+          "end": 205.78,
+          "conf": 0.67
+        },
+        {
+          "line_id": 51,
+          "word_index": 7,
+          "start": 205.78,
+          "end": 206.225,
+          "conf": 0.85
+        },
+        {
+          "line_id": 51,
+          "word_index": 8,
+          "start": 206.225,
+          "end": 206.975,
+          "conf": 0.88
+        }
+      ],
+      "word_hashes": [
+        "8ed6791bdf3d61a1e6edcbb253979b0a6bef7f3d99dda0fb49cffe96923514b6",
+        "cba06b5736faf67e54b07b561eae94395e774c517a7d910a54369e1263ccfbd4",
+        "06c604b332b386b6cce8355ccf27fffd3a98b7a7a5b9b3a550c039c6ebae38e4",
+        "8187ccb4d451d4e3bb9cafb47ec872793fe34fed47332ebd9fae3f159e407c24",
+        "283bb9deef02e6843abfb538efa1eca70801bd8a701c3f98191e123496339247",
+        "6b5a3ded016ab78269898c6e38d09f71e71e9311d53569f668e76378de0a798a",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "193c45b5281908d2d9c814ba73be696dd3f252052c230f925d797f373f318d03",
+        "360f84035942243c6a36537ae2f8673485e6c04455a0a85a0db19690f2541480"
+      ]
+    },
+    {
+      "id": 52,
+      "start": 207.515,
+      "end": 210.745,
+      "display_end": 211.245,
+      "sha256": "ffcdae5a971c71af80c98acf284ceb6e617c7612162d49b4b51d32dccd40d084",
+      "words": [
+        {
+          "line_id": 52,
+          "word_index": 0,
+          "start": 207.515,
+          "end": 207.94,
+          "conf": 0.71
+        },
+        {
+          "line_id": 52,
+          "word_index": 1,
+          "start": 207.94,
+          "end": 208.38,
+          "conf": 0.91
+        },
+        {
+          "line_id": 52,
+          "word_index": 2,
+          "start": 208.38,
+          "end": 208.61,
+          "conf": 0.67
+        },
+        {
+          "line_id": 52,
+          "word_index": 3,
+          "start": 208.61,
+          "end": 209.255,
+          "conf": 0.98
+        },
+        {
+          "line_id": 52,
+          "word_index": 4,
+          "start": 209.255,
+          "end": 209.5,
+          "conf": 0.99
+        },
+        {
+          "line_id": 52,
+          "word_index": 5,
+          "start": 209.5,
+          "end": 209.585,
+          "conf": 0.95
+        },
+        {
+          "line_id": 52,
+          "word_index": 6,
+          "start": 209.68,
+          "end": 210.07,
+          "conf": 0.97
+        },
+        {
+          "line_id": 52,
+          "word_index": 7,
+          "start": 210.07,
+          "end": 210.34,
+          "conf": 1.0
+        },
+        {
+          "line_id": 52,
+          "word_index": 8,
+          "start": 210.34,
+          "end": 210.745,
+          "conf": 0.78
+        }
+      ],
+      "word_hashes": [
+        "a9531f64027967a038d348e7a9cd626d4938661f425667f88c1b7cc9d1b69b15",
+        "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+        "fa51fd49abf67705d6a35d18218c115ff5633aec1f9ebfdc9d5d4956416f57f6",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "c5879b8d250ca6e74ca6bba56d9d89d3902cdc521520c040f051f7893d9555ac",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "686f746a95b6f836d7d70567c302c3f9ebb5ee0def3d1220ee9d4e9f34f5e131"
+      ]
+    },
+    {
+      "id": 53,
+      "start": 213.85,
+      "end": 217.6,
+      "display_end": 218.1,
+      "sha256": "b605eef3fa16d7c3e1bf9ea3948eca6aa1a05c544a3a450a7c2be8264e4bc1d6",
+      "words": [
+        {
+          "line_id": 53,
+          "word_index": 0,
+          "start": 213.85,
+          "end": 214.62,
+          "conf": 0.74
+        },
+        {
+          "line_id": 53,
+          "word_index": 1,
+          "start": 214.62,
+          "end": 214.85,
+          "conf": 0.94
+        },
+        {
+          "line_id": 53,
+          "word_index": 2,
+          "start": 214.85,
+          "end": 215.3,
+          "conf": 0.97
+        },
+        {
+          "line_id": 53,
+          "word_index": 3,
+          "start": 215.3,
+          "end": 215.75,
+          "conf": 0.97
+        },
+        {
+          "line_id": 53,
+          "word_index": 4,
+          "start": 216.0,
+          "end": 216.355,
+          "conf": 0.98
+        },
+        {
+          "line_id": 53,
+          "word_index": 5,
+          "start": 216.355,
+          "end": 216.58,
+          "conf": 0.87
+        },
+        {
+          "line_id": 53,
+          "word_index": 6,
+          "start": 216.58,
+          "end": 216.88,
+          "conf": 0.92
+        },
+        {
+          "line_id": 53,
+          "word_index": 7,
+          "start": 216.88,
+          "end": 217.235,
+          "conf": 1.0
+        },
+        {
+          "line_id": 53,
+          "word_index": 8,
+          "start": 217.235,
+          "end": 217.6,
+          "conf": 0.83
+        }
+      ],
+      "word_hashes": [
+        "dadbbb9327c711e4b626f7820fb299871d23d6020683bbd1e08d37e0246c7e90",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+        "5c9a768092900674b96423ba5358705cb0c306c6721bac80fc514c51e85a4c7c",
+        "a6b46dd0d1ae5e86cbc8f37e75ceeb6760230c1ca4ffbcb0c97b96dd7d9c464b",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+        "8a2f8bcb5572a89ae969186af0e03c56c87c22be98cb81e0c79ef69c80319670",
+        "75a288c0d6898c5f7b054590845978a82a3ad79fcce3d43ff68a7501e5a91ee9"
+      ]
+    },
+    {
+      "id": 54,
+      "start": 221.28,
+      "end": 224.47,
+      "display_end": 224.97,
+      "sha256": "1de26c4c64b71333aaa78d943115a4bcb13840289ab9d53a52bc5bf745244ee3",
+      "words": [
+        {
+          "line_id": 54,
+          "word_index": 0,
+          "start": 221.28,
+          "end": 221.545,
+          "conf": 0.7
+        },
+        {
+          "line_id": 54,
+          "word_index": 1,
+          "start": 221.545,
+          "end": 221.78,
+          "conf": 0.86
+        },
+        {
+          "line_id": 54,
+          "word_index": 2,
+          "start": 221.78,
+          "end": 222.18,
+          "conf": 0.88
+        },
+        {
+          "line_id": 54,
+          "word_index": 3,
+          "start": 222.18,
+          "end": 222.98,
+          "conf": 0.89
+        },
+        {
+          "line_id": 54,
+          "word_index": 4,
+          "start": 223.04,
+          "end": 223.28,
+          "conf": 0.86
+        },
+        {
+          "line_id": 54,
+          "word_index": 5,
+          "start": 223.28,
+          "end": 223.5,
+          "conf": 0.88
+        },
+        {
+          "line_id": 54,
+          "word_index": 6,
+          "start": 223.5,
+          "end": 223.68,
+          "conf": 0.84
+        },
+        {
+          "line_id": 54,
+          "word_index": 7,
+          "start": 223.68,
+          "end": 223.92,
+          "conf": 0.88
+        },
+        {
+          "line_id": 54,
+          "word_index": 8,
+          "start": 223.92,
+          "end": 224.06,
+          "conf": 0.87
+        },
+        {
+          "line_id": 54,
+          "word_index": 9,
+          "start": 224.06,
+          "end": 224.47,
+          "conf": 0.65
+        }
+      ],
+      "word_hashes": [
+        "1f45f02561f41db9483cfc00675900237967b8e382b9750d33f677812fe70842",
+        "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "081cc4e2d9b97f6c8cfc0bb78cd792107d6eb96cbd5ecb374968b44e6c443ede",
+        "14ebe56a5008e7c251101e9e1fdbe281ab0a82bd6fa00a5cef746b9ee0dd31d1",
+        "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+        "908aec4512d80ff4fefb1970899091e9de8e734b36b8fdb7678e77dc092f6959",
+        "663ea1bfffe5038f3f0cf667f14c4257eff52d77ce7f2a218f72e9286616ea39",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "39d02b42938b2b75d027ebeb25c9d1fd0b71b6e0453e217a2e85cedc7e4637b4"
+      ]
+    },
+    {
+      "id": 55,
+      "start": 228.28,
+      "end": 231.445,
+      "display_end": 231.945,
+      "sha256": "0290ff7a8ad99319854a46154098d7ebe39ca4b0a211ed7b120a055443532cf3",
+      "words": [
+        {
+          "line_id": 55,
+          "word_index": 0,
+          "start": 228.28,
+          "end": 228.73,
+          "conf": 0.75
+        },
+        {
+          "line_id": 55,
+          "word_index": 1,
+          "start": 228.73,
+          "end": 229.05,
+          "conf": 0.91
+        },
+        {
+          "line_id": 55,
+          "word_index": 2,
+          "start": 229.1,
+          "end": 229.345,
+          "conf": 0.98
+        },
+        {
+          "line_id": 55,
+          "word_index": 3,
+          "start": 229.345,
+          "end": 229.74,
+          "conf": 0.93
+        },
+        {
+          "line_id": 55,
+          "word_index": 4,
+          "start": 230.005,
+          "end": 230.105,
+          "conf": 0.86
+        },
+        {
+          "line_id": 55,
+          "word_index": 5,
+          "start": 230.105,
+          "end": 230.44,
+          "conf": 0.88
+        },
+        {
+          "line_id": 55,
+          "word_index": 6,
+          "start": 230.44,
+          "end": 231.06,
+          "conf": 0.85
+        },
+        {
+          "line_id": 55,
+          "word_index": 7,
+          "start": 231.06,
+          "end": 231.445,
+          "conf": 0.72
+        }
+      ],
+      "word_hashes": [
+        "8851aaa7d08ca1ae7e5d63278037532f3222a8b746e7abdd8af3fb06d6d4f993",
+        "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+        "3c482346f375027677fa8a0d6830a32714d4f13f9e94c2d9e215e0ac205ad4e5",
+        "a4affd40205d7f17a23e94d65375e07dd461a5a9bccead043e5a29a09dc31b25",
+        "dc7c811b9561739d9b75bb3e9e1715970a868834e62251b0b9ca02e74d0f42c9",
+        "193c45b5281908d2d9c814ba73be696dd3f252052c230f925d797f373f318d03",
+        "1749238e95cb7739d56d4c0b775aefffdd5c8002a762bc6056ccde8871a201b0",
+        "ed5eb9a37e2d8231af3388319b941995f6dc8755c56043d0cc52b5fe405a87de"
+      ]
+    },
+    {
+      "id": 56,
+      "start": 233.85,
+      "end": 237.035,
+      "display_end": 237.32,
+      "sha256": "073f482db230a435d4330df1ef0fc59b2ba8777ad88bba03b07ea07a308ab545",
+      "words": [
+        {
+          "line_id": 56,
+          "word_index": 0,
+          "start": 233.85,
+          "end": 234.08,
+          "conf": 0.85
+        },
+        {
+          "line_id": 56,
+          "word_index": 1,
+          "start": 234.08,
+          "end": 234.26,
+          "conf": 0.92
+        },
+        {
+          "line_id": 56,
+          "word_index": 2,
+          "start": 234.26,
+          "end": 234.5,
+          "conf": 1.0
+        },
+        {
+          "line_id": 56,
+          "word_index": 3,
+          "start": 234.5,
+          "end": 234.995,
+          "conf": 0.97
+        },
+        {
+          "line_id": 56,
+          "word_index": 4,
+          "start": 235.995,
+          "end": 236.16,
+          "conf": 0.85
+        },
+        {
+          "line_id": 56,
+          "word_index": 5,
+          "start": 236.16,
+          "end": 237.035,
+          "conf": 0.9
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "c06b0cfe0cc5e900c57784484094331f095bf441995c3c31ea6c75691c786c35"
+      ]
+    },
+    {
+      "id": 57,
+      "start": 237.32,
+      "end": 240.405,
+      "display_end": 240.71,
+      "sha256": "21e3f414d3adba2657ebae6ed066700d25300976d89d7bdae4b224ec32065c22",
+      "words": [
+        {
+          "line_id": 57,
+          "word_index": 0,
+          "start": 237.32,
+          "end": 237.52,
+          "conf": 0.97
+        },
+        {
+          "line_id": 57,
+          "word_index": 1,
+          "start": 237.52,
+          "end": 237.72,
+          "conf": 1.0
+        },
+        {
+          "line_id": 57,
+          "word_index": 2,
+          "start": 237.72,
+          "end": 237.9,
+          "conf": 0.91
+        },
+        {
+          "line_id": 57,
+          "word_index": 3,
+          "start": 237.9,
+          "end": 238.14,
+          "conf": 0.84
+        },
+        {
+          "line_id": 57,
+          "word_index": 4,
+          "start": 238.14,
+          "end": 238.52,
+          "conf": 1.0
+        },
+        {
+          "line_id": 57,
+          "word_index": 5,
+          "start": 239.0,
+          "end": 239.96,
+          "conf": 0.72
+        },
+        {
+          "line_id": 57,
+          "word_index": 6,
+          "start": 239.96,
+          "end": 240.405,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd",
+        "4137b01e139589b7a1d3b3fc4da031d8ce5bb415808734e970c3a58ea0e98f0f",
+        "46599c5bb5c33101f80cea8438e2228085513dbbb19b2f5ce97bd68494d3344d",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "24ea913efda289dc1b17d80ab567c21e0f051b26f7a4bb65b1e70817febb6b4f",
+        "447f7f5c325ea17e635bef91bac42e27c55490450f38f1815d8d6c0bb36687ac",
+        "63212655f2e25a8f89eeb6653853cece8901e24c4a4c1dee70e53b68bad3e19c"
+      ]
+    },
+    {
+      "id": 58,
+      "start": 240.71,
+      "end": 243.815,
+      "display_end": 244.16,
+      "sha256": "1d7341cd61619369a0826886ec0f69f6d6fc84fa7ae793e3178c8da1f16328dd",
+      "words": [
+        {
+          "line_id": 58,
+          "word_index": 0,
+          "start": 240.71,
+          "end": 241.17,
+          "conf": 0.85
+        },
+        {
+          "line_id": 58,
+          "word_index": 1,
+          "start": 241.17,
+          "end": 241.38,
+          "conf": 0.79
+        },
+        {
+          "line_id": 58,
+          "word_index": 2,
+          "start": 241.38,
+          "end": 241.525,
+          "conf": 0.95
+        },
+        {
+          "line_id": 58,
+          "word_index": 3,
+          "start": 241.56,
+          "end": 241.885,
+          "conf": 0.71
+        },
+        {
+          "line_id": 58,
+          "word_index": 4,
+          "start": 242.015,
+          "end": 242.455,
+          "conf": 0.85
+        },
+        {
+          "line_id": 58,
+          "word_index": 5,
+          "start": 242.455,
+          "end": 243.815,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "8c29bf34483dc157c14ffb531c5084c879af19ec75069d4e1a14033013ece963",
+        "935f68319d4f227e02bfd54a0ddf85b8a242e42a4277aa5ef5eaab691710924e",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "34659fd61a72a85204b4f191879ba9064fcb4112618e0fc6c51112cfd555b0d9",
+        "b2c66dfd45dd07f58d2246b695660b220ee429c6a8ba95f27e4c57f02e9d6ac8",
+        "d8d0944f82b71168a257ee50328cbd1d0bdd8f0fc2edd527172d5cfaaa72dda7"
+      ]
+    },
+    {
+      "id": 59,
+      "start": 244.16,
+      "end": 247.25,
+      "display_end": 247.565,
+      "sha256": "b66585368ba796021519a7d84987addad1f6032c238fbe56fae0a5f26de68d9e",
+      "words": [
+        {
+          "line_id": 59,
+          "word_index": 0,
+          "start": 244.16,
+          "end": 244.34,
+          "conf": 0.97
+        },
+        {
+          "line_id": 59,
+          "word_index": 1,
+          "start": 244.34,
+          "end": 244.62,
+          "conf": 0.68
+        },
+        {
+          "line_id": 59,
+          "word_index": 2,
+          "start": 244.62,
+          "end": 244.94,
+          "conf": 0.78
+        },
+        {
+          "line_id": 59,
+          "word_index": 3,
+          "start": 245.02,
+          "end": 245.82,
+          "conf": 0.85
+        },
+        {
+          "line_id": 59,
+          "word_index": 4,
+          "start": 245.82,
+          "end": 246.435,
+          "conf": 0.86
+        },
+        {
+          "line_id": 59,
+          "word_index": 5,
+          "start": 246.435,
+          "end": 246.92,
+          "conf": 1.0
+        },
+        {
+          "line_id": 59,
+          "word_index": 6,
+          "start": 246.92,
+          "end": 247.25,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "c0212a81b08c69f2012a22ccde46fa877b00d21dcc0c1fbd7c2152cd389e274a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9",
+        "fafe97f7def328bbd4f10779b9625a8aa0bfaa143d7ae64e6f5770e47b51cd1d",
+        "c06b0cfe0cc5e900c57784484094331f095bf441995c3c31ea6c75691c786c35",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0"
+      ]
+    },
+    {
+      "id": 60,
+      "start": 247.565,
+      "end": 250.695,
+      "display_end": 250.955,
+      "sha256": "ba09714afe7a43db079495e223fe1d28306cf2dac2eec24abd52c6772b299284",
+      "words": [
+        {
+          "line_id": 60,
+          "word_index": 0,
+          "start": 247.565,
+          "end": 247.8,
+          "conf": 0.89
+        },
+        {
+          "line_id": 60,
+          "word_index": 1,
+          "start": 247.8,
+          "end": 247.98,
+          "conf": 0.81
+        },
+        {
+          "line_id": 60,
+          "word_index": 2,
+          "start": 247.98,
+          "end": 248.24,
+          "conf": 1.0
+        },
+        {
+          "line_id": 60,
+          "word_index": 3,
+          "start": 248.24,
+          "end": 248.845,
+          "conf": 1.0
+        },
+        {
+          "line_id": 60,
+          "word_index": 4,
+          "start": 249.565,
+          "end": 249.855,
+          "conf": 0.85
+        },
+        {
+          "line_id": 60,
+          "word_index": 5,
+          "start": 249.855,
+          "end": 250.695,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "bb0347a468d97e98a9c00e37cebec1ab930f6f1221cae0f1fbb92b07e1900ba2",
+        "9b473845f684444f80a26586ae298d2ba491752cc70b893cc653d943b6fa2ac2",
+        "6b847a0ed0b2c484c73f2749e29b4db576dd6b06cf7110180dd43b8871dc14b3",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "79a5478768d2447431a90f7f4549df735f50ad541371464c248abc7522dc3a01"
+      ]
+    },
+    {
+      "id": 61,
+      "start": 250.955,
+      "end": 254.195,
+      "display_end": 254.445,
+      "sha256": "1a4d19af15cc9d37268a4c855e620622eebebad464bb3dc911f083921225e176",
+      "words": [
+        {
+          "line_id": 61,
+          "word_index": 0,
+          "start": 250.955,
+          "end": 251.22,
+          "conf": 0.75
+        },
+        {
+          "line_id": 61,
+          "word_index": 1,
+          "start": 251.22,
+          "end": 251.425,
+          "conf": 1.0
+        },
+        {
+          "line_id": 61,
+          "word_index": 2,
+          "start": 251.425,
+          "end": 251.62,
+          "conf": 0.84
+        },
+        {
+          "line_id": 61,
+          "word_index": 3,
+          "start": 251.62,
+          "end": 251.88,
+          "conf": 0.91
+        },
+        {
+          "line_id": 61,
+          "word_index": 4,
+          "start": 251.88,
+          "end": 252.29,
+          "conf": 0.71
+        },
+        {
+          "line_id": 61,
+          "word_index": 5,
+          "start": 252.7,
+          "end": 253.12,
+          "conf": 0.85
+        },
+        {
+          "line_id": 61,
+          "word_index": 6,
+          "start": 253.12,
+          "end": 253.38,
+          "conf": 1.0
+        },
+        {
+          "line_id": 61,
+          "word_index": 7,
+          "start": 253.38,
+          "end": 253.71,
+          "conf": 1.0
+        },
+        {
+          "line_id": 61,
+          "word_index": 8,
+          "start": 253.71,
+          "end": 254.195,
+          "conf": 0.85
+        }
+      ],
+      "word_hashes": [
+        "d9655e1668a3c93a7bd31274b1b330d7babca5b98c181082931ab2c3909bd329",
+        "cab2644828bcc1f220612fde559864da2c5bf0c6eebdcadbb4a4c88c9fcf3927",
+        "5ef5ef0364b6939c4ca61f34b393f7b368d1be8619647aaf83d5b395919ab629",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "ecc745a0d5a1f7577b5fe359049f7b2ae05e9bd4cae3414da849866f03699d83",
+        "ffbfabc54ca8a26ef654e1dfecce9802d96326869199f4b1dbac0adb1fe7de06",
+        "75857a45899985be4c4d941e90b6b396d6c92a4c7437aaf0bf102089fe21379d",
+        "4d040d3f6466018c568aadf69a666d4257e5bb350a8e06f7198aedb6b12386fe",
+        "45a229d57d35d935b67ce83a69f0353508b131ca39325494db3520252c841e10"
+      ]
+    },
+    {
+      "id": 62,
+      "start": 254.445,
+      "end": 257.545,
+      "display_end": 257.88,
+      "sha256": "c0550dafdd152a19f2ec1f77f04f38ac5bc3d6ce5ad9389a931bfccd4e3a37e9",
+      "words": [
+        {
+          "line_id": 62,
+          "word_index": 0,
+          "start": 254.445,
+          "end": 254.66,
+          "conf": 0.89
+        },
+        {
+          "line_id": 62,
+          "word_index": 1,
+          "start": 254.66,
+          "end": 254.82,
+          "conf": 0.73
+        },
+        {
+          "line_id": 62,
+          "word_index": 2,
+          "start": 254.82,
+          "end": 255.23,
+          "conf": 0.83
+        },
+        {
+          "line_id": 62,
+          "word_index": 3,
+          "start": 255.26,
+          "end": 255.64,
+          "conf": 0.82
+        },
+        {
+          "line_id": 62,
+          "word_index": 4,
+          "start": 255.94,
+          "end": 256.04,
+          "conf": 0.74
+        },
+        {
+          "line_id": 62,
+          "word_index": 5,
+          "start": 256.04,
+          "end": 256.36,
+          "conf": 0.89
+        },
+        {
+          "line_id": 62,
+          "word_index": 6,
+          "start": 256.36,
+          "end": 256.62,
+          "conf": 0.88
+        },
+        {
+          "line_id": 62,
+          "word_index": 7,
+          "start": 256.62,
+          "end": 257.545,
+          "conf": 1.0
+        }
+      ],
+      "word_hashes": [
+        "869360a6f4f268964b8cb8f0204924f6e2bbeb50979619ba791f0b62f295c228",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "c8c97cdd252556bc893ccba057aa851597ee6a6786cf71e599c2b5d4e8558fd0",
+        "c6dd28bf93e66ada08a6e374779671a3c8e11933046cf2101a50b28e7c776384",
+        "0695b563acde461fc2f8d9aebccf35c7596ac458b8d8e067c602fb7b4e5f1578",
+        "4dc2159bba05da394c3b94c6f54354db1f1f43b321ac4bbdfc2f658237858c70",
+        "8187ccb4d451d4e3bb9cafb47ec872793fe34fed47332ebd9fae3f159e407c24",
+        "d0358af9d7d72c38645a5db885ced394a1c8ca7d176edd7448f4f6390ce262ed"
+      ]
+    },
+    {
+      "id": 63,
+      "start": 257.88,
+      "end": 260.88,
+      "display_end": 260.88,
+      "sha256": "2ada269abe8f8314684cb6acc0c8618f24d6f260af9c9f77997e98762a01378b",
+      "words": [
+        {
+          "line_id": 63,
+          "word_index": 0,
+          "start": 257.88,
+          "end": 258.06,
+          "conf": 0.82
+        },
+        {
+          "line_id": 63,
+          "word_index": 1,
+          "start": 258.06,
+          "end": 258.32,
+          "conf": 0.77
+        },
+        {
+          "line_id": 63,
+          "word_index": 2,
+          "start": 258.32,
+          "end": 258.735,
+          "conf": 0.94
+        },
+        {
+          "line_id": 63,
+          "word_index": 3,
+          "start": 258.735,
+          "end": 259.545,
+          "conf": 1.0
+        },
+        {
+          "line_id": 63,
+          "word_index": 4,
+          "start": 259.545,
+          "end": 260.17,
+          "conf": 0.88
+        },
+        {
+          "line_id": 63,
+          "word_index": 5,
+          "start": 260.17,
+          "end": 260.665,
+          "conf": 0.87
+        },
+        {
+          "line_id": 63,
+          "word_index": 6,
+          "start": 260.665,
+          "end": 260.88,
+          "conf": 0.9
+        }
+      ],
+      "word_hashes": [
+        "c0212a81b08c69f2012a22ccde46fa877b00d21dcc0c1fbd7c2152cd389e274a",
+        "b9776d7ddf459c9ad5b0e1d6ac61e27befb5e99fd62446677600d7cacef544d0",
+        "f905b19542ed08c9a9c26543cca32e5711d207dcffb81b4cdb44ce0b989431c9",
+        "fafe97f7def328bbd4f10779b9625a8aa0bfaa143d7ae64e6f5770e47b51cd1d",
+        "79a5478768d2447431a90f7f4549df735f50ad541371464c248abc7522dc3a01",
+        "10c22bcf4c768b515be4e94bcafc71bf3e8fb5f70b2584bcc8c7533217f2e7f9",
+        "2744ccd10c7533bd736ad890f9dd5cab2adb27b07d500b9493f29cdc420cb2e0"
+      ]
+    },
+    {
+      "id": 64,
+      "start": 260.88,
+      "end": 262.35,
+      "display_end": 262.85,
+      "sha256": "3014ab7d50c682507a9c95cd64c64e46c0db31a838aa0e49e7693701245e56d3",
+      "words": [
+        {
+          "line_id": 64,
+          "word_index": 0,
+          "start": 260.88,
+          "end": 261.43,
+          "conf": 0.59
+        },
+        {
+          "line_id": 64,
+          "word_index": 1,
+          "start": 261.43,
+          "end": 262.35,
+          "conf": 0.91
+        }
+      ],
+      "word_hashes": [
+        "c9d7ed34ba7890f69090bd0612643736348055d85f90ae7bba6fd4175dc482c9",
+        "8483339396cbbb573a8f92e8f9dec5b52fa8f78ac479fe2b53edba9008b4eb78"
+      ]
+    },
+    {
+      "id": 66,
+      "start": 275.61,
+      "end": 277.86,
+      "display_end": 278.36,
+      "sha256": "509557c485ff677f4cf65bbabd0c01d5841aa31a3e7819c31eee7f96ae59846c",
+      "words": [
+        {
+          "line_id": 66,
+          "word_index": 0,
+          "start": 275.61,
+          "end": 276.35,
+          "conf": 0.67
+        },
+        {
+          "line_id": 66,
+          "word_index": 1,
+          "start": 277.06,
+          "end": 277.44,
+          "conf": 0.84
+        },
+        {
+          "line_id": 66,
+          "word_index": 2,
+          "start": 277.44,
+          "end": 277.47,
+          "conf": 0.66
+        },
+        {
+          "line_id": 66,
+          "word_index": 3,
+          "start": 277.47,
+          "end": 277.86,
+          "conf": 0.7
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "7dece7d7d99ed7ded2f99250503cae3f714b5ccfd978721ce25785ab107d43cd",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "cd6357efdd966de8c0cb2f876cc89ec74ce35f0968e11743987084bd42fb8944"
+      ]
+    },
+    {
+      "id": 67,
+      "start": 278.765,
+      "end": 282.86,
+      "display_end": 282.86,
+      "sha256": "86188dcd7ed7aece15931b26e71cd1e30303ff79c3588c749444170ded78a73a",
+      "words": [
+        {
+          "line_id": 67,
+          "word_index": 0,
+          "start": 278.765,
+          "end": 278.98,
+          "conf": 0.92
+        },
+        {
+          "line_id": 67,
+          "word_index": 1,
+          "start": 278.98,
+          "end": 279.4,
+          "conf": 0.83
+        },
+        {
+          "line_id": 67,
+          "word_index": 2,
+          "start": 279.4,
+          "end": 279.95,
+          "conf": 0.83
+        },
+        {
+          "line_id": 67,
+          "word_index": 3,
+          "start": 280.5,
+          "end": 280.98,
+          "conf": 0.82
+        },
+        {
+          "line_id": 67,
+          "word_index": 4,
+          "start": 280.98,
+          "end": 281.2,
+          "conf": 0.85
+        },
+        {
+          "line_id": 67,
+          "word_index": 5,
+          "start": 281.4,
+          "end": 281.82,
+          "conf": 0.73
+        },
+        {
+          "line_id": 67,
+          "word_index": 6,
+          "start": 281.82,
+          "end": 282.86,
+          "conf": 0.71
+        }
+      ],
+      "word_hashes": [
+        "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+        "180ca01b95f0dfdd36fbb600e51cf6e46c8ef468de56b017847886fefaf7b6f9",
+        "6588ef4db6a357d6d9ca7d0c9feb69bd8e2f236ab88459da5c193b7fa9503187",
+        "c44d8605913ba4addb9f522e639f33275bbafe254411afd3add58386d439d607",
+        "36ce07dd7c3b5ec0b0e6ab9a632f8c2ba91ff0a239eeb0c381631a34603b1f73",
+        "36ce07dd7c3b5ec0b0e6ab9a632f8c2ba91ff0a239eeb0c381631a34603b1f73",
+        "acadbba99747a5451261c15ae4f389a22e9273135dc696de72c8ceae660cf2b0"
+      ]
+    },
+    {
+      "id": 68,
+      "start": 282.86,
+      "end": 284.77,
+      "display_end": 285.27,
+      "sha256": "895a7a4292b44f6db02c075ae9b76608be34273649e3f148873efcd4c8d00459",
+      "words": [
+        {
+          "line_id": 68,
+          "word_index": 0,
+          "start": 282.86,
+          "end": 283.225,
+          "conf": 0.73
+        },
+        {
+          "line_id": 68,
+          "word_index": 1,
+          "start": 283.94,
+          "end": 284.36,
+          "conf": 0.77
+        },
+        {
+          "line_id": 68,
+          "word_index": 2,
+          "start": 284.36,
+          "end": 284.39,
+          "conf": 0.8
+        },
+        {
+          "line_id": 68,
+          "word_index": 3,
+          "start": 284.39,
+          "end": 284.77,
+          "conf": 0.81
+        }
+      ],
+      "word_hashes": [
+        "1e3abf61a37e3cad36b11b459b1cc39e76feb6a0c369fe5270957468288dcc5c",
+        "7dece7d7d99ed7ded2f99250503cae3f714b5ccfd978721ce25785ab107d43cd",
+        "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+        "9209526aaa61b0709dbb838e14686a26c4a03b53e8eedf34c7e5f6f606110d8c"
+      ]
+    },
+    {
+      "id": 69,
+      "start": 285.695,
+      "end": 289.175,
+      "display_end": 289.675,
+      "sha256": "761709fff91ecece45b2ec70908ec03c192b7d10722c93f0dad9dc3af2ab6535",
+      "words": [
+        {
+          "line_id": 69,
+          "word_index": 0,
+          "start": 285.695,
+          "end": 286.065,
+          "conf": 0.75
+        },
+        {
+          "line_id": 69,
+          "word_index": 1,
+          "start": 286.12,
+          "end": 286.925,
+          "conf": 0.99
+        },
+        {
+          "line_id": 69,
+          "word_index": 2,
+          "start": 287.495,
+          "end": 287.96,
+          "conf": 0.66
+        },
+        {
+          "line_id": 69,
+          "word_index": 3,
+          "start": 287.96,
+          "end": 288.075,
+          "conf": 1.0
+        },
+        {
+          "line_id": 69,
+          "word_index": 4,
+          "start": 288.24,
+          "end": 289.175,
+          "conf": 0.69
+        }
+      ],
+      "word_hashes": [
+        "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+        "5ed728c2fa5d767bc6c1ec6a732db1e37c343be46913e6498d340f7782691f14",
+        "a18b869b2e81c0c529552a3c4fa5c92ed08b98a4e146aed778d71d27517f83ac",
+        "28391d3bc64ec15cbb090426b04aa6b7649c3cc85f11230bb0105e02d15e3624",
+        "a5ad895656074bb12930374348bf903460016bcf430bf7039d7e34f0c505a7b1"
+      ]
+    }
+  ]
+}
